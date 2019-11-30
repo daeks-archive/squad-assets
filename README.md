@@ -22,4 +22,4 @@ This is a data / asset repository for the game SQUAD - https://joinsquad.com/
 
 # Changelog
 
-- Updated to A17 (without CAF) maps)
+- Updated to A17 (without CAF maps)
