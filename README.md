@@ -14,6 +14,12 @@ This is a data / asset repository for the game SQUAD - https://joinsquad.com/
   plugin: 'CanadianArmedForces'
 ```
 
+- Weather needs to match icons in the ```weather``` folder but spaces are allowed like:
+
+```
+  weather: 'Sunny Mid Day'
+```
+
 # Changelog
 
 - Updated to A17 (without CAF) maps)
