@@ -422,8 +422,8 @@ module.exports = {
   Al_Basrah_Skirmish_v2: {
     flags: ['Al Khora Outskirts', 'Poppy West', 'Poppy East', 'Basrah Outskirts'],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Sun Rise',
+    size: '2x2',
     team1: {
       name: 'MIL',
       tickets: 150,
@@ -470,8 +470,8 @@ module.exports = {
   Al_Basrah_TC_v1: {
     flags: [],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Sunny Mid Day',
+    size: '2x2',
     team1: {
       name: 'GB',
       tickets: 400,
@@ -542,8 +542,8 @@ module.exports = {
   Al_Basrah_TC_v2: {
     flags: [],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Sun Rise',
+    size: '2x2',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -618,8 +618,8 @@ module.exports = {
   Belaya_AAS_v1: {
     flags: ['Velino', 'Tire Factory', 'Train Tunnel', 'Nikola', 'Depot'],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Overcast',
+    size: '2x4',
     team1: {
       name: 'RUS',
       tickets: 300,
@@ -698,8 +698,8 @@ module.exports = {
   Belaya_Invasion_v1: {
     flags: ['Upper Velino', 'Lumber Yard', 'Coal Mine', 'Train Tunnel', 'Homestead', 'Aniva'],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Sunny Mid Day',
+    size: '2x4',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -770,8 +770,8 @@ module.exports = {
   Belaya_Invasion_v2: {
     flags: ['Babenki', 'Outpost', 'Nikola', 'Karakul', 'Tire Factory', 'Lower Velino'],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Overcast',
+    size: '2x4',
     team1: {
       name: 'USA',
       tickets: 150,
