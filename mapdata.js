@@ -1,6 +1,8 @@
 module.exports = {
   Al_Basrah_AAS_v1: {
     flags: ['Al Khora', 'West Outskirts', 'Courtyard', 'South Suburbs', 'Mosque', 'Refinery', 'Island Suburbs'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 250,
@@ -73,6 +75,9 @@ module.exports = {
     }
   },
   Al_Basrah_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 200,
@@ -130,6 +135,8 @@ module.exports = {
   },
   Al_Basrah_Invasion_v1: {
     flags: ['Ruins', 'Al Khora', 'Poppy Production', 'West Outskirts', 'Mosque', 'Courtyard'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -199,6 +206,8 @@ module.exports = {
   },
   Al_Basrah_Invasion_v2: {
     flags: ['North Hwy 6 Bridge', 'VCP', 'Al Khora', 'West Basrash', 'Suburbs'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -279,6 +288,9 @@ module.exports = {
     }
   },
   Al_Basrah_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 300,
@@ -372,6 +384,8 @@ module.exports = {
   },
   Al_Basrah_Skirmish_v1: {
     flags: ['Oasis Park', 'Gas Station', 'Cross Roads', 'Mosque', 'North Outskirts'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -401,6 +415,8 @@ module.exports = {
   },
   Al_Basrah_Skirmish_v2: {
     flags: ['Al Khora Outskirts', 'Poppy West', 'Poppy East', 'Basrah Outskirts'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 150,
@@ -445,6 +461,9 @@ module.exports = {
     }
   },
   Al_Basrah_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 400,
@@ -513,6 +532,9 @@ module.exports = {
     }
   },
   Al_Basrah_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -586,6 +608,8 @@ module.exports = {
   },
   Belaya_AAS_v1: {
     flags: ['Velino', 'Tire Factory', 'Train Tunnel', 'Nikola', 'Depot'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 300,
@@ -663,6 +687,8 @@ module.exports = {
   },
   Belaya_Invasion_v1: {
     flags: ['Upper Velino', 'Lumber Yard', 'Coal Mine', 'Train Tunnel', 'Homestead', 'Aniva'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -732,6 +758,8 @@ module.exports = {
   },
   Belaya_Invasion_v2: {
     flags: ['Babenki', 'Outpost', 'Nikola', 'Karakul', 'Tire Factory', 'Lower Velino'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -805,6 +833,8 @@ module.exports = {
   },
   Belaya_Invasion_v3: {
     flags: ['Coal Mine', 'Gabukay', 'Nikola', 'Industrial Yard', 'Depot'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -873,6 +903,9 @@ module.exports = {
     }
   },
   Belaya_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -941,6 +974,9 @@ module.exports = {
     }
   },
   Belaya_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -1005,6 +1041,9 @@ module.exports = {
     }
   },
   Belaya_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -1074,6 +1113,8 @@ module.exports = {
   },
   Belaya_Skirmish_v1: {
     flags: ['Tire Factory', 'Velino Lower', 'Velino Slums', 'Velino DC', 'Velino Upper'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -1102,6 +1143,9 @@ module.exports = {
     }
   },
   Belaya_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -1171,6 +1215,8 @@ module.exports = {
   },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -1220,6 +1266,8 @@ module.exports = {
   },
   Chora_AAS_v2: {
     flags: ['Mosque', 'Checkpoint', 'Hemp Farm', 'Vineyard', 'Upper Orchard'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -1268,6 +1316,9 @@ module.exports = {
     }
   },
   Chora_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -1317,6 +1368,8 @@ module.exports = {
   },
   Chora_Invasion_v1: {
     flags: ['Mosque', 'Hemp Farm', 'Poppy Farm', 'Lower Orchard', 'Nursery', 'Monolith'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -1374,6 +1427,8 @@ module.exports = {
   },
   Chora_Invasion_v1_Night: {
     flags: ['Mosque', 'Hemp Farm', 'Poppy Farm', 'Orchard', 'Nursery', 'Monolith'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -1438,6 +1493,9 @@ module.exports = {
     }
   },
   Chora_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -1498,6 +1556,9 @@ module.exports = {
     }
   },
   Chora_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -1543,6 +1604,8 @@ module.exports = {
   },
   Chora_Skirmish_v1: {
     flags: ['Lavender Estate', 'RT&M', 'Vineyard', 'Central Orchard'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -1563,6 +1626,9 @@ module.exports = {
     }
   },
   Chora_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -1624,6 +1690,8 @@ module.exports = {
   },
   "Fool's_Road_AAS_v1": {
     flags: ['Mine Entrance', 'Train Station', 'Ammo Hill', 'Fortress', 'Hilltop Encampment'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 250,
@@ -1693,6 +1761,8 @@ module.exports = {
   },
   "Fool's_Road_AAS_v3": {
     flags: ['Dylym', 'Hill 123', 'Verto', 'FOB Papanov', 'Hilltop Encampment', 'Ammo Hill', 'OP Fortress'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -1745,6 +1815,9 @@ module.exports = {
     }
   },
   "Fool's_Road_RAAS_v1": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -1813,6 +1886,9 @@ module.exports = {
     }
   },
   "Fool's_Road_RAAS_v2": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -1873,6 +1949,9 @@ module.exports = {
     }
   },
   "Fool's_Road_RAAS_v3": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -1937,6 +2016,9 @@ module.exports = {
     }
   },
   "Fool's_Road_Destruction_v1": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 200,
@@ -2002,6 +2084,8 @@ module.exports = {
   },
   "Fool's_Road_Skirmish_v1": {
     flags: ['OP Fortress', 'Logging Site', 'Train Station', 'Ridgeline', 'Mine Entrance'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -2031,6 +2115,8 @@ module.exports = {
   },
   "Fool's_Road_Skirmish_v2": {
     flags: ['Verto', 'Hilltop Emcampment', 'Homestead'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -2059,6 +2145,9 @@ module.exports = {
     }
   },
   "Fool's_Road_TC_v1": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 400,
@@ -2120,6 +2209,8 @@ module.exports = {
   },
   Gorodok_AAS_v1: {
     flags: ['Industrial Park', 'Soloninki', 'Niva Upper', 'Ambush Hill', 'Shipping Yard', 'Fruit Farm'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 300,
@@ -2193,6 +2284,8 @@ module.exports = {
   },
   Gorodok_AAS_v2: {
     flags: ['Akim Lower', 'Tunnel Defense', 'Industrial Park', 'Pavlov\'s Farm', 'Soloninki Upper', 'Desna'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -2261,6 +2354,9 @@ module.exports = {
     }
   },
   Gorodok_Destruction_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -2325,6 +2421,9 @@ module.exports = {
     }
   },
   Gorodok_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 200,
@@ -2394,6 +2493,8 @@ module.exports = {
   },
   Gorodok_Invasion_v1: {
     flags: ['Shipping Yard', 'Yard Apartments', 'Ambush Hill', 'Niva Upper', 'Train Bridge'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -2463,6 +2564,8 @@ module.exports = {
   },
   Gorodok_Invasion_v2: {
     flags: ['Fruit Farm', 'Ambush Hill', 'Niva Lower', 'Pavlow\'s Farm', 'Industrial Park', 'Tunnel Defense'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -2543,6 +2646,9 @@ module.exports = {
     }
   },
   Gorodok_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -2611,6 +2717,9 @@ module.exports = {
     }
   },
   Gorodok_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -2675,6 +2784,9 @@ module.exports = {
     }
   },
   Gorodok_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -2735,6 +2847,9 @@ module.exports = {
     }
   },
   Gorodok_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -2799,6 +2914,9 @@ module.exports = {
     }
   },
   Gorodok_RAAS_v5: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -2868,6 +2986,8 @@ module.exports = {
   },
   Gorodok_Skirmish_v1: {
     flags: ['Hilltop Bunker Ruins', 'Niva Upper', 'Niva FootHills', 'Niva Lower', 'Niva Radio Tower'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -2888,6 +3008,9 @@ module.exports = {
     }
   },
   Gorodok_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -2957,6 +3080,9 @@ module.exports = {
 
   },
   "Jensen's_Range_v1": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 999999,
@@ -2969,6 +3095,9 @@ module.exports = {
     }
   },
   "Jensen's_Range_v2": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 999999,
@@ -2981,6 +3110,9 @@ module.exports = {
     }
   },
   "Jensen's_Range_v3": {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 999999,
@@ -2993,6 +3125,9 @@ module.exports = {
     }
   },
   Jensens_Range_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'CAF',
       tickets: 999999,
@@ -3006,6 +3141,8 @@ module.exports = {
   },
   Kamdesh_AAS_v1: {
     flags: ['Manyal', 'Paprok', 'Nahrain', 'Codri', 'Darin'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -3054,6 +3191,9 @@ module.exports = {
     }
   },
   Kamdesh_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -3134,6 +3274,9 @@ module.exports = {
     }
   },
   Kamdesh_Insurgency_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 200,
@@ -3203,6 +3346,8 @@ module.exports = {
   },
   Kamdesh_Invasion_v1: {
     flags: ['Toba', 'Aringshah', 'Alingul', 'Kaga', 'Hemp Farm', 'Nilaw'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -3280,6 +3425,8 @@ module.exports = {
   },
   Kamdesh_Invasion_v2: {
     flags: ['Urmul', 'Agasi', 'Naray', 'Manyal', 'Godri', 'Storage Bunker'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -3361,6 +3508,8 @@ module.exports = {
   },
   Kamdesh_Invasion_v3: {
     flags: ['Sao', 'Smuggler\'s Den', 'Paprok', 'Manyal', 'Mandagal'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -3433,6 +3582,9 @@ module.exports = {
     }
   },
   Kamdesh_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -3485,6 +3637,9 @@ module.exports = {
     }
   },
   Kamdesh_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -3549,6 +3704,9 @@ module.exports = {
     }
   },
   Kamdesh_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -3609,6 +3767,9 @@ module.exports = {
     }
   },
   Kamdesh_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -3670,6 +3831,8 @@ module.exports = {
   },
   Kamdesh_Skirmish_v1: {
     flags: ['Capo', 'Nahrain', 'Smuggler\'s Den'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -3690,6 +3853,9 @@ module.exports = {
     }
   },
   Kamdesh_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 400,
@@ -3742,6 +3908,9 @@ module.exports = {
     }
   },
   Kamdesh_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 400,
@@ -3820,6 +3989,8 @@ module.exports = {
   },
   Kohat_AAS_v1: {
     flags: ['Hangu Proper', 'Khadizai Lower', 'Mohd Zai', 'Malak Abdad', 'Bahadur'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -3892,6 +4063,9 @@ module.exports = {
     }
   },
   Kohat_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -3985,6 +4159,8 @@ module.exports = {
   },
   Kohat_Invasion_v1: {
     flags: ['Hangu', 'FOB Connolly', 'Chakar Kot', 'Bahadur Proper', 'Sarozai Upper'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -4062,6 +4238,8 @@ module.exports = {
   },
   Kohat_Invasion_v2: {
     flags: ['Suni Khel', 'Chakar Kot', 'Ali Abad', 'Khadizai Radio Tower'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -4134,6 +4312,9 @@ module.exports = {
     }
   },
   Kohat_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -4194,6 +4375,9 @@ module.exports = {
     }
   },
   Kohat_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -4250,6 +4434,9 @@ module.exports = {
     }
   },
   Kohat_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 300,
@@ -4318,6 +4505,9 @@ module.exports = {
     }
   },
   Kohat_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -4387,6 +4577,8 @@ module.exports = {
   },
   Kohat_Skirmish_v1: {
     flags: ['Ali Abad', 'Malak Abad', 'Syed Abad', 'Mohd Zai Upper', 'Mohd Zai Lower'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -4407,6 +4599,9 @@ module.exports = {
     }
   },
   Kohat_TC_v1: {
+    flags: [],
+    dls: 'CanadianArmedForces',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -4473,6 +4668,8 @@ module.exports = {
   },
   Kokan_Valley_AAS_v1: {
     flags: ['First Stand', 'Gran Dell', 'Sarak', 'Tempest Estate', 'Market', 'Ruins', 'Stonebend'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -4513,6 +4710,9 @@ module.exports = {
     }
   },
   Kokan_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -4562,6 +4762,8 @@ module.exports = {
   },
   Kokan_Invasion_v1: {
     flags: ['First Stand', 'The Nest', 'Tempest Estate', 'Market', 'Ruins'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -4610,6 +4812,9 @@ module.exports = {
     }
   },
   Kokan_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 250,
@@ -4662,6 +4867,9 @@ module.exports = {
     }
   },
   Kokan_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 250,
@@ -4719,6 +4927,8 @@ module.exports = {
   },
   Kokan_Skirmish_v1: {
     flags: ['Ruins', 'Upper District Center', 'Slums', 'Gran Dell', 'Nova Isle'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 150,
@@ -4751,6 +4961,9 @@ module.exports = {
     }
   },
   Kokan_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -4804,6 +5017,8 @@ module.exports = {
   },
   Logar_Valley_AAS_v1: {
     flags: ['Bend', 'Compound', 'Lower DC', 'Central DC 2', 'Central DC 1', 'Upper DC', 'Residence', 'Farm'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -4861,6 +5076,8 @@ module.exports = {
   },
   Logar_Valley_AAS_v2: {
     flags: ['Residence', 'Nomad Camp', 'Lower DC', 'Compound', 'Compound', 'Compound'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -4901,6 +5118,9 @@ module.exports = {
     }
   },
   Logar_Valley_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 200,
@@ -4957,6 +5177,9 @@ module.exports = {
     }
   },
   Logar_Valley_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 250,
@@ -5014,6 +5237,8 @@ module.exports = {
   },
   Logar_Valley_Skirmish_v1: {
     flags: ['Lower DC', 'East DC', 'Central DC', 'West DC', 'Upper DC'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 150,
@@ -5042,6 +5267,9 @@ module.exports = {
     }
   },
   Logar_Valley_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -5117,6 +5345,8 @@ module.exports = {
   },
   Mestia_AAS_v1: {
     flags: ['Farmstead', 'Crucible Gamma', 'Quarry', 'Crucible', 'Ware House', 'Fortification', 'Armory'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 250,
@@ -5178,6 +5408,8 @@ module.exports = {
   },
   Mestia_Invasion_v1: {
     flags: ['Farmstead', 'Tunnel Entrance', 'Quarry', 'Fortification', 'Armory'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -5247,6 +5479,8 @@ module.exports = {
   },
   Mestia_Invasion_v2: {
     flags: ['Armory', 'Fortification', 'Crucible Bravo', 'Quarry', 'Farmstead'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -5315,6 +5549,9 @@ module.exports = {
     }
   },
   Mestia_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 250,
@@ -5376,6 +5613,8 @@ module.exports = {
   },
   Mestia_Skirmish_v1: {
     flags: ['Quarry Warehouse', 'Abandoned Buildings', 'Tunne North', 'Tunnel South'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -5408,6 +5647,9 @@ module.exports = {
     }
   },
   Mestia_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -5469,6 +5711,8 @@ module.exports = {
   },
   Mutaha_AAS_v1: {
     flags: ['Compound', 'Main Street Blockade', 'Police Station', 'School', 'Vineyard'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -5526,6 +5770,8 @@ module.exports = {
   },
   Mutaha_Invasion_v1: {
     flags: ['South Farm', 'East Mosque', 'Ammo Warehouse', 'Main Street', 'Compound'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -5598,6 +5844,9 @@ module.exports = {
     }
   },
   Mutaha_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -5659,6 +5908,8 @@ module.exports = {
   },
   Mutaha_Skirmish_v1: {
     flags: ['Baraka Rd North', 'Baraka Market', 'Baraka Rd South', 'Arvand View'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -5679,6 +5930,9 @@ module.exports = {
     }
   },
   Mutaha_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -5715,6 +5969,9 @@ module.exports = {
     }
   },
   Mutaha_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -5791,6 +6048,8 @@ module.exports = {
   },
   Narva_AAS_v1: {
     flags: ['Radio Station', 'Church', 'Geneva Apts', 'Train Depot', 'Shipping Yard', 'Power Plant'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -5848,6 +6107,8 @@ module.exports = {
   },
   Narva_AAS_v2: {
     flags: ['Radio Station', 'Old Barracks', 'Old Hospital', 'Oru Village', 'Kanepi Rd', 'Power Plant'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -5901,6 +6162,8 @@ module.exports = {
   },
   Narva_AAS_v3: {
     flags: ['Abandoned Airfield', 'Ring Road', 'Quarry', 'Shipping Yard', 'Castle'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -5961,6 +6224,9 @@ module.exports = {
     }
   },
   Narva_Destruction_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 1000,
@@ -6018,6 +6284,8 @@ module.exports = {
   },
   Narva_Invasion_v1: {
     flags: ['Ring Road', 'Old Hospital', 'Shopping Center', 'Warehouse', 'Narva Castle'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 700,
@@ -6083,6 +6351,8 @@ module.exports = {
   },
   Narva_Invasion_v2: {
     flags: ['Radio Station', 'Oru Village', 'Geneva Apartments', 'Train Depot', 'Narva Heights'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -6147,6 +6417,9 @@ module.exports = {
     }
   },
   Narva_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -6212,6 +6485,8 @@ module.exports = {
   },
   Narva_Skirmish_v1: {
     flags: ['Factory', 'Shopping Center', 'Geneva Apartments', 'Storefronts', 'Train Depot'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -6240,6 +6515,9 @@ module.exports = {
     }
   },
   Narva_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -6300,6 +6578,9 @@ module.exports = {
     }
   },
   Narva_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -6365,6 +6646,8 @@ module.exports = {
   },
   Skorpo_AAS_v1: {
     flags: ['Eik Water Storage', 'Uskedalen Radio Tower', 'Uskedalen Marina', 'Halsane', 'Korsneset'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -6417,6 +6700,9 @@ module.exports = {
     }
   },
   Skorpo_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -6489,6 +6775,9 @@ module.exports = {
     }
   },
   Skorpo_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -6565,6 +6854,9 @@ module.exports = {
     }
   },
   Skorpo_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -6637,6 +6929,9 @@ module.exports = {
     }
   },
   Skorpo_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -6710,6 +7005,8 @@ module.exports = {
   },
   Skorpo_Invasion_v1: {
     flags: ['Heroysund', 'Lia', 'Eik', 'Ammo Dump (Resupply CP)', 'Uskedalen', 'Adnaklett'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -6775,6 +7072,8 @@ module.exports = {
   },
   Skorpo_Invasion_v2: {
     flags: ['Lower Eik', 'Upper Eik', 'Water Storage', 'Pallane', 'Observation Outpost'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -6816,6 +7115,8 @@ module.exports = {
   },
   Skorpo_Skirmish_v1: {
     flags: ['Uskedalen Apartments', 'Community Center', 'Workshop', 'Hwy 48 Homes', 'EP Patrol Station'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -6836,6 +7137,9 @@ module.exports = {
     }
   },
   Skorpo_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -6884,6 +7188,9 @@ module.exports = {
     }
   },
   Skorpo_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -6932,6 +7239,9 @@ module.exports = {
     }
   },
   Skorpo_TC_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 500,
@@ -6993,6 +7303,8 @@ module.exports = {
   },
   Sumari_AAS_v1: {
     flags: ['Compound', 'Slums', 'Mosque', 'Sourk', 'School'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -7037,6 +7349,9 @@ module.exports = {
     }
   },
   Sumari_Insurgency_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -7081,6 +7396,9 @@ module.exports = {
     }
   },
   Sumari_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 250,
@@ -7125,6 +7443,9 @@ module.exports = {
     }
   },
   Sumari_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -7170,6 +7491,8 @@ module.exports = {
   },
   Sumari_Skirmish_v1: {
     flags: ['Tri Commons', 'Abdel\'s Farm', 'Walled Courts', 'Market', 'Gas Station'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 150,
@@ -7202,6 +7525,9 @@ module.exports = {
     }
   },
   Sumari_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -7247,6 +7573,8 @@ module.exports = {
   },
   Tallil_Outskirts_AAS_v1: {
     flags: ['Eridu', 'Ali Air Base', 'Gas Town', 'Abandoned Soviet Base', 'Destroyed Hangars', 'West Al-Khidhir', 'Batha'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -7324,6 +7652,8 @@ module.exports = {
   },
   Tallil_Outskirts_Invasion_v1: {
     flags: ['Mahatt Ur', 'North Ali Air Base', 'Abandoned Soviet Base', 'West Al-Khidhir', 'Batha'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -7397,6 +7727,8 @@ module.exports = {
   },
   Tallil_Outskirts_Invasion_v2: {
     flags: ['Batha', 'West Al-Khidhir', 'East Al-Khidhir'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'RUS',
       tickets: 150,
@@ -7461,6 +7793,9 @@ module.exports = {
     }
   },
   Tallil_Outskirts_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -7537,6 +7872,9 @@ module.exports = {
     }
   },
   Tallil_Outskirts_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -7605,6 +7943,9 @@ module.exports = {
     }
   },
   Tallil_Outskirts_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -7681,6 +8022,9 @@ module.exports = {
     }
   },
   Tallil_Outskirts_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 350,
@@ -7754,6 +8098,8 @@ module.exports = {
   },
   Tallil_Outskirts_Skirmish_v1: {
     flags: ['Riverside Estates', 'Water Tower', 'Amiri\'s Abode', 'Riverside Khidhir', 'Central Aparments', 'Highway Edge'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -7775,6 +8121,8 @@ module.exports = {
   },
   Tallil_Outskirts_Skirmish_v2: {
     flags: ['Supply Hangars', 'Air Hangar #3', 'Central Barracks', 'Air Hangar #6', 'Admin Barracks'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -7796,6 +8144,8 @@ module.exports = {
   },
   Tallil_Outskirts_Skirmish_v3: {
     flags: ['Citadel Remains', 'Joey\'s Folley', 'Bwlyt Tawn', 'Warboy\'s Nest', 'Gastown'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'MIL',
       tickets: 200,
@@ -7877,6 +8227,8 @@ module.exports = {
   },
   Tallil_Outskirts_Tanks_v1_Experimental: {
     flags: ['Gas Town', 'Central Airfield', 'Batha'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -7922,6 +8274,8 @@ module.exports = {
   },
   Tallil_Outskirts_Tanks_v2_Experimental: {
     flags: ['Gas Town', 'Centrail Airfield', 'Batha'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -7966,6 +8320,9 @@ module.exports = {
     }
   },
   Tallil_Outskirts_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 500,
@@ -8043,6 +8400,8 @@ module.exports = {
   },
   Yehorivka_AAS_v1: {
     flags: ['West Novo', 'East Novo', 'West Stepne', 'Yevhinivka', 'Lower Petrivka', 'West Petrivka', 'Upper Petrivka'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 300,
@@ -8112,6 +8471,8 @@ module.exports = {
   },
   Yehorivka_AAS_v2: {
     flags: ['Yeho Airfield', 'East Novo', 'Lower Mogilyovo', 'West Mogilyovov', 'Kropy', 'Zolota Bunkers', 'Ivanivka'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -8188,6 +8549,9 @@ module.exports = {
     }
   },
   Yehorivka_Destruction_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -8253,6 +8617,8 @@ module.exports = {
   },
   Yehorivka_Invasion_v1: {
     flags: ['Yeho Airfield', 'East Novo', 'Lower Mogilyovo', 'Lower Petrivka', 'Upper Petrivka'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 150,
@@ -8326,6 +8692,8 @@ module.exports = {
   },
   Yehorivka_Invasion_v2: {
     flags: ['Yeho Airfield', 'Hilltop Encampment', 'East Stepne', 'Yevhinivka', 'Peredove'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 700,
@@ -8402,6 +8770,9 @@ module.exports = {
     }
   },
   Yehorivka_RAAS_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -8470,6 +8841,9 @@ module.exports = {
     }
   },
   Yehorivka_RAAS_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -8510,6 +8884,9 @@ module.exports = {
     }
   },
   Yehorivka_RAAS_v3: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'GB',
       tickets: 350,
@@ -8578,6 +8955,9 @@ module.exports = {
     }
   },
   Yehorivka_RAAS_v4: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 300,
@@ -8630,6 +9010,9 @@ module.exports = {
     }
   },
   Yehorivka_RAAS_v5: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 350,
@@ -8691,6 +9074,8 @@ module.exports = {
   },
   Yehorivka_Skirmish_v1: {
     flags: ['Lower Petrivka', 'Yevhinivka', 'Upper Petrivka', 'Petrivka Co-op', 'West Petrivka'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -8720,6 +9105,8 @@ module.exports = {
   },
   Yehorivka_Skirmish_v2: {
     flags: ['Klyuchove', 'Thunderdome', 'The Green Place'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -8741,6 +9128,8 @@ module.exports = {
   },
   Yehorivka_Skirmish_v3: {
     flags: ['Kropy', 'West Mogilyovo', 'Bilovia', 'Sokolov'],
+    plugin: 'OffworldCore',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 200,
@@ -8777,6 +9166,9 @@ module.exports = {
     }
   },
   Yehorivka_TC_v1: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 400,
@@ -8849,6 +9241,9 @@ module.exports = {
     }
   },
   Yehorivka_TC_v2: {
+    flags: [],
+    dls: '',
+    weather: '',
     team1: {
       name: 'USA',
       tickets: 500,
