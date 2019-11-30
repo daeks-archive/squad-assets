@@ -2,7 +2,9 @@
 
 This is a data / asset repository for the game SQUAD - https://joinsquad.com/
 
-© 2019 Offworld Industries Ltd.
+Initial data compiled by https://squadmaps.com/ - extended / modified by daeks
+
+Asset © 2019 Offworld Industries Ltd.
 
 # Important Note
 
