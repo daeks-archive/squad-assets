@@ -25,3 +25,10 @@ Asset © 2019 Offworld Industries Ltd.
 # Changelog
 
 - Updated to A17 (without CAF maps)
+
+# Known Issues
+
+- Missing CAF maps
+- Missing weather
+- Missing size
+- Duplicate Entry of ```Kohat_TC_v1``` due to the underscore index
