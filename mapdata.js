@@ -3119,15 +3119,6 @@ module.exports = {
       }]
     }
   },
-  Gorodok_Invasion_v2_CAF: {
-    // TODO
-  },
-  Gorodok_RAAS_v2_CAF_2: {
-    // TODO
-  },
-  Gorodok_TC_v1_CAF: {
-
-  },
   "Jensen's_Range_v1": {
     flags: [],
     plugin: 'OffworldCore',
@@ -4044,15 +4035,6 @@ module.exports = {
       }]
     }
   },
-  Kamdesh_Invasion_v2_CAF: {
-    // TODO
-  },
-  Kamdesh_RAAS_v4_CAF: {
-    // TODO
-  },
-  Kamdesh_TC_v1_CAF: {
-    // TODO
-  },
   Kohat_AAS_v1: {
     flags: ['Hangu Proper', 'Khadizai Lower', 'Mohd Zai', 'Malak Abdad', 'Bahadur'],
     plugin: 'OffworldCore',
@@ -4733,15 +4715,6 @@ module.exports = {
       }]
     }
   },
-  Kohat_Invasion_v1_CAF: {
-    // TODO
-  },
-  Kohat_RAAS_v3_CAF: {
-    // TOOO
-  },
-  Kohat_TC_v1: {
-    // TODO
-  },
   Kokan_Valley_AAS_v1: {
     flags: ['First Stand', 'Gran Dell', 'Sarak', 'Tempest Estate', 'Market', 'Ruins', 'Stonebend'],
     plugin: 'OffworldCore',
@@ -5413,24 +5386,6 @@ module.exports = {
         delay: ''
       }]
     }
-  },
-  Manic_Invasion_v1: {
-    // TODO
-  },
-  Manic_Invasion_v2: {
-    // TODO
-  },
-  Manic_RAAS_v1: {
-    // TODO
-  },
-  Manic_RAAS_v2: {
-    // TODO
-  },
-  Manic_Skirmish_v1: {
-    // TODO
-  },
-  Manic_TC_v1: {
-    // TODO
   },
   Mestia_AAS_v1: {
     flags: ['Farmstead', 'Crucible Gamma', 'Quarry', 'Crucible', 'Ware House', 'Fortification', 'Armory'],
@@ -6131,21 +6086,6 @@ module.exports = {
         delay: ''
       }]
     }
-  },
-  Nanisivik_Invasion_v1: {
-    // TODO
-  },
-  Nanisivik_Invasion_v2: {
-    // TODO
-  },
-  Nanisivik_Overcast: {
-    // TODO
-  },
-  Nanisivik_RAAS_v1: {
-    // TODO
-  },
-  Nanisivik_RAAS_v2: {
-    // TODO
   },
   Narva_AAS_v1: {
     flags: ['Radio Station', 'Church', 'Geneva Apts', 'Train Depot', 'Shipping Yard', 'Power Plant'],
@@ -9458,14 +9398,5 @@ module.exports = {
         delay: '06:00'
       }]
     }
-  },
-  Yehorivka_CAF_TC_V3: {
-    // TODO
-  },
-  Yehorivka_Invasion_CAF_v1: {
-    // TODO
-  },
-  Yehorivka_RAAS_v1_CAF: {
-    // TODO
   }
 };

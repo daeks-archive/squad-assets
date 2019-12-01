@@ -16,18 +16,43 @@ Belaya RAAS v2
 Belaya RAAS v3
 Belaya Skirmish v1
 Belaya TC v1
+CAF_Gorodok_Invasion_v1
+CAF_Gorodok_RAAS_v1
+CAF_Gorodok_RAAS_v2
+CAF_Gorodok_TC_v1
+CAF_Kamdesh_Invasion_v1
+CAF_Kamdesh_RAAS_v1
+CAF_Kamdesh_TC_v1
+CAF_Kohat_Invasion_v1
+CAF_Manic_Invasion_v1
+CAF_Manic_Invasion_v2
+CAF_Manic_RAAS_v1
+CAF_Manic_RAAS_v2
+CAF_Manic_RAAS_v3
+CAF_Manic_RAAS_v4
+CAF_Manic_Skirmish_v1
+CAF_Manic_Skirmish_v2
+CAF_Manic_TC_v1
+CAF_Nanisivik_Invasion_v1
+CAF_Nanisivik_Invasion_v2
+CAF_Nanisivik_RAAS_v1
+CAF_Nanisivik_RAAS_v2
+CAF_Yehorivka_Invasion_v1
+CAF_Yehorivka_RAAS_v1
+CAF_Yehorivka_TC_V1
 Chora AAS v1
 Chora AAS v2
 Chora Insurgency v1
 Chora Invasion v1
-Chora Invasion v1 Night
+Chora Invasion v2
 Chora RAAS v1
 Chora RAAS v2
 Chora Skirmish v1
 Chora TC v1
 Fool's Road AAS v1
-Fool's Road AAS v3
+Fool's Road AAS v2
 Fool's Road Destruction v1
+Fool's Road Invasion v1
 Fool's Road RAAS v1
 Fool's Road RAAS v2
 Fool's Road RAAS v3
@@ -47,9 +72,6 @@ Gorodok RAAS v4
 Gorodok RAAS v5
 Gorodok Skirmish v1
 Gorodok TC v1
-Gorodok_Invasion_v2_CAF
-Gorodok_RAAS_v2_CAF_2
-Gorodok_TC_v1_CAF
 // Infantry Tutorial
 // Jensen's Range v1
 // Jensen's Range v2
@@ -68,9 +90,6 @@ Kamdesh RAAS v4
 Kamdesh Skirmish v1
 Kamdesh TC v1
 Kamdesh TC v2
-Kamdesh_Invasion_v2_CAF
-Kamdesh_RAAS_v4_CAF
-Kamdesh_TC_v1_CAF
 Kohat AAS v1
 Kohat Insurgency v1
 Kohat Invasion v1
@@ -81,9 +100,6 @@ Kohat RAAS v3
 Kohat RAAS v4
 Kohat Skirmish v1
 Kohat TC v1
-Kohat_Invasion_v1_CAF
-Kohat_RAAS_v3_CAF
-Kohat_TC_v1
 Kokan Insurgency v1
 Kokan Invasion v1
 Kokan RAAS v1
@@ -100,12 +116,6 @@ Logar Valley Insurgency v1
 Logar Valley RAAS v1
 Logar Valley Skirmish v1
 Logar Valley TC v1
-Manic_Invasion_v1
-Manic_Invasion_v2
-Manic_RAAS_v1
-Manic_RAAS_v2
-Manic_Skirmish_v1
-Manic_TC_v1
 Mestia AAS v1
 Mestia Invasion v1
 Mestia Invasion v2
@@ -118,11 +128,8 @@ Mutaha RAAS v1
 Mutaha Skirmish v1
 Mutaha TC v1
 Mutaha TC v2
-Nanisivik_Invasion_v1
-Nanisivik_Invasion_v2
-Nanisivik_Overcast
-Nanisivik_RAAS_v1
-Nanisivik_RAAS_v2
+// Nanisivik
+// Nanisivik_Overcast
 Narva AAS v1
 Narva AAS v2
 Narva AAS v3
@@ -146,6 +153,7 @@ Skorpo TC v2
 Skorpo TC v3
 Sumari AAS v1
 Sumari Insurgency v1
+Sumari Invasion v1
 Sumari RAAS v1
 Sumari RAAS v2
 Sumari Skirmish v1
@@ -153,6 +161,7 @@ Sumari TC v1
 Tallil Outskirts AAS v1
 Tallil Outskirts Invasion v1
 Tallil Outskirts Invasion v2
+Tallil Outskirts Invasion v3
 Tallil Outskirts RAAS v1
 Tallil Outskirts RAAS v2
 Tallil Outskirts RAAS v3
@@ -161,8 +170,8 @@ Tallil Outskirts Skirmish v1
 Tallil Outskirts Skirmish v2
 Tallil Outskirts Skirmish v3
 Tallil Outskirts TC v1
-// Tallil Outskirts Tanks v1 Experimental
-// Tallil Outskirts Tanks v2 Experimental
+// Tallil Outskirts Tanks v1
+// Tallil Outskirts Tanks v2
 Yehorivka AAS v1
 Yehorivka AAS v2
 Yehorivka Destruction v1
@@ -178,6 +187,3 @@ Yehorivka Skirmish v2
 Yehorivka Skirmish v3
 Yehorivka TC v1
 Yehorivka TC v2
-Yehorivka_CAF_TC_V3
-Yehorivka_Invasion_CAF_v1
-Yehorivka_RAAS_v1_CAF
