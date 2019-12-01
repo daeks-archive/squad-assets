@@ -1231,6 +1231,74 @@ module.exports = {
       }]
     }
   },
+  CAF_Gorodok_Invasion_v1: {
+    flags: ['Fruit Farm', 'Ambush Hill', 'Hilltop Old Bunker', 'Pavlow\'s Farm', 'Boris\' Farmstead', 'Tunnel Defenses'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 800,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 2,
+        delay: '04:00'
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Technical UB-32 Rocket Artillery',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
