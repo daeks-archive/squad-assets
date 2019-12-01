@@ -1731,6 +1731,74 @@ module.exports = {
       }]
     }
   },
+  CAF_Manic_Invasion_v1: {
+    flags: ['Logistics Center', 'Lower Baie Comeau', 'Lodging Site', 'Maintenance Yard'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Transport',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 150,
+      vehicles: [{
+        name: 'T72-B3 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
