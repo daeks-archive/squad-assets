@@ -2055,6 +2055,70 @@ module.exports = {
       }]
     }
   },
+  CAF_Manic_RAAS_v4: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 400,
+      vehicles: [{
+        name: 'BMP-1 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 375 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Technical SPG-9',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
