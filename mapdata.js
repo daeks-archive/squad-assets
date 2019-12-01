@@ -1799,6 +1799,70 @@ module.exports = {
       }]
     }
   },
+  CAF_Manic_Invasion_v2: {
+    flags: ['East Baie Comeau', 'Baie Comeau Heights', 'Crash Site', 'Power Station'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Transport',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: [{
+        name: 'M1126 M2HB APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M-ATV TOW',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M2A3 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M9r9 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M-ATV M2HB CROWS',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
