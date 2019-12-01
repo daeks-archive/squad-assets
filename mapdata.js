@@ -2119,6 +2119,30 @@ module.exports = {
       }]
     }
   },
+  CAF_Manic_Skirmish_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 100,
+      vehicles: [{
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
