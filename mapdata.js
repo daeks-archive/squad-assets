@@ -1659,6 +1659,78 @@ module.exports = {
       }]
     }
   },
+  CAF_Kohat_Invasion_v1: {
+    flags: ['Sumi Khel', 'Chakar Kot', 'Ali Abad', 'Khadizai Radio Tower'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'INS',
+      tickets: 600,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical UB-32 Rocket Artillery',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Minks Motorcycle',
+        amount: 14,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
