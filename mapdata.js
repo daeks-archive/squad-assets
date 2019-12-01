@@ -1299,6 +1299,70 @@ module.exports = {
       }]
     }
   },
+  CAF_Gorodok_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   CAF_Gorodok_RAAS_v2: {
     flags: [],
     plugin: 'CanadianArmedForces',
