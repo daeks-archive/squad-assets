@@ -2120,7 +2120,47 @@ module.exports = {
     }
   },
   CAF_Manic_Skirmish_v1: {
-    flags: [],
+    flags: ['Antenna Facility', 'Fermont', 'Crash Site', 'Lower Baie Comeau', 'East Baie Comeau'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      },{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'M-ATV M2HB',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      },{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_Skirmish_v2: {
+    flags: ['Trench Line', 'Upper Baie Comeau', 'Lower Baie Comeau', 'Baie Comeau Heights', 'East Baie Comeau'],
     plugin: 'CanadianArmedForces',
     weather: '',
     size: '',
