@@ -2503,6 +2503,70 @@ module.exports = {
       }]
     }
   },
+  CAF_Yehorivka_Invasion_v1: {
+    flags: ['Upper Petrivka', 'Lower Petrivka', 'East Mogilyovo', 'East Novo', 'Yeho Airfield'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 700,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'MT-LB ZU-23 Anti-Air APC',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
