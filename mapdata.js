@@ -2567,6 +2567,78 @@ module.exports = {
       }]
     }
   },
+  CAF_Yehorivka_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 2,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'T-72B3 MBT',
+        amount: 2,
+        delay: '20:00'
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Mi-8 Hip',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BTR-80 APC',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
