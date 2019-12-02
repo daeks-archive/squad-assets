@@ -1231,6 +1231,1014 @@ module.exports = {
       }]
     }
   },
+  CAF_Gorodok_Invasion_v1: {
+    flags: ['Fruit Farm', 'Ambush Hill', 'Hilltop Old Bunker', 'Pavlow\'s Farm', 'Boris\' Farmstead', 'Tunnel Defenses'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 800,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 2,
+        delay: '04:00'
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Technical UB-32 Rocket Artillery',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Gorodok_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Gorodok_RAAS_v2: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: '20:00'
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'MI-8 Hip',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Gorodok_TC_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 2,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'BTR-82A IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BTR-80 APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Kamdesh_Invasion_v1: {
+    flags: ['Urmul', 'Agasi', 'Naray', 'Manyal', 'Godri', 'Storage Bunker'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 4,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 800,
+      vehicles: [{
+        name: 'T-72B3 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'MT-LBM 6MB IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 5,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Kamdesh_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'BTR-82A IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Kamdesh_TC_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 400,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 400,
+      vehicles: [{
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Kohat_Invasion_v1: {
+    flags: ['Sumi Khel', 'Chakar Kot', 'Ali Abad', 'Khadizai Radio Tower'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'INS',
+      tickets: 600,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical UB-32 Rocket Artillery',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Minks Motorcycle',
+        amount: 14,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_Invasion_v1: {
+    flags: ['Logistics Center', 'Lower Baie Comeau', 'Lodging Site', 'Maintenance Yard'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Transport',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 150,
+      vehicles: [{
+        name: 'T72-B3 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_Invasion_v2: {
+    flags: ['East Baie Comeau', 'Baie Comeau Heights', 'Crash Site', 'Power Station'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Transport',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: [{
+        name: 'M1126 M2HB APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M-ATV TOW',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M2A3 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M9r9 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M-ATV M2HB CROWS',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_RAAS_v2: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '10 :00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'MI-8 Hip',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_RAAS_v3: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 350,
+      vehicles: [{
+        name: 'M1126 M2HB IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M-ATV TOW',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M2A3 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M-ATV M2HB CROWS',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_RAAS_v4: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 400,
+      vehicles: [{
+        name: 'BMP-1 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 375 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Technical SPG-9',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_Skirmish_v1: {
+    flags: ['Antenna Facility', 'Fermont', 'Crash Site', 'Lower Baie Comeau', 'East Baie Comeau'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      },{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'M-ATV M2HB',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      },{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_Skirmish_v2: {
+    flags: ['Trench Line', 'Upper Baie Comeau', 'Lower Baie Comeau', 'Baie Comeau Heights', 'East Baie Comeau'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 100,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 100,
+      vehicles: [{
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Manic_TV_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      },{
+        name: 'TAPV',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      },{
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      },{
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'Ural 375 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      },{
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      },{
+        name: 'BTR-80 APC',
+        amount: 1,
+        delay: ''
+      },{
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
