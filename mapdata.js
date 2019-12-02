@@ -2183,7 +2183,7 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_TV_v1: {
+  CAF_Manic_TC_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
     weather: '',
@@ -2233,6 +2233,70 @@ module.exports = {
         amount: 1,
         delay: ''
       },{
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Nanisivik_Invasion_v1: {
+    flags: ['Shimik', 'Drill Site', 'Rersearch Station', 'Cambridge Bay', 'Tailing Pond'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 2,
+        delay: '04:00'
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 150,
+      vehicles: [{
+        name: 'T72-B3 MBT',
+        amount: 2,
+        delay: '04:00'
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
         name: 'BRDM-2 Scout Car',
         amount: 1,
         delay: ''
