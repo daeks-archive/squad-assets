@@ -2371,6 +2371,74 @@ module.exports = {
       }]
     }
   },
+  CAF_Nanisivik_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'T-72B2 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Mi-8 Hip',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-80 APC',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
   Chora_AAS_v1: {
     flags: ['Gas Station', 'Hemp Farm', 'Radio Station', 'Upper Orchard', 'Nursery', 'Monolith'],
     plugin: 'OffworldCore',
