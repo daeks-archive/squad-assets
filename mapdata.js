@@ -2240,7 +2240,7 @@ module.exports = {
     }
   },
   CAF_Nanisivik_Invasion_v1: {
-    flags: ['Shimik', 'Drill Site', 'Rersearch Station', 'Cambridge Bay', 'Tailing Pond'],
+    flags: ['Shimik', 'Drill Site', 'Research Station', 'Cambridge Bay', 'Tailing Pond'],
     plugin: 'CanadianArmedForces',
     weather: '',
     size: '',
@@ -2300,6 +2300,74 @@ module.exports = {
         name: 'BRDM-2 Scout Car',
         amount: 1,
         delay: ''
+      }]
+    }
+  },
+  CAF_Nanisivik_Invasion_v2: {
+    flags: ['Harbour', 'Drill Site', 'Taggut Coop', 'Airfield'],
+    plugin: 'CanadianArmedForces',
+    weather: '',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 700,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Transport',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LUV-A1 Logistics',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: [{
+        name: 'M1A2 MBT',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M-ATV TOW',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M1126 M2HB APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M2A3 IFV1',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
       }]
     }
   },
