@@ -22,13 +22,17 @@ Asset © 2019 Offworld Industries Ltd.
   weather: 'Sunny Mid Day'
 ```
 
+# Quality
+
+Check ```quality.txt``` for more information. 
+
 # Changelog
 
-- Updated to A17 (without CAF maps)
+- Added CAF maps part #1
+- Updated to B17 (without CAF maps)
 
 # Known Issues
 
 - Missing CAF maps
 - Missing weather
 - Missing size
-- Duplicate Entry of ```Kohat_TC_v1``` due to the underscore index

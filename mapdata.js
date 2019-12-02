@@ -2131,11 +2131,11 @@ module.exports = {
         name: 'M939 Logistics Truck',
         amount: 2,
         delay: ''
-      },{
+      }, {
         name: 'M939 Transport Truck',
         amount: 1,
         delay: ''
-      },{
+      }, {
         name: 'M-ATV M2HB',
         amount: 1,
         delay: ''
@@ -2148,11 +2148,11 @@ module.exports = {
         name: 'M939 Logistics Truck',
         amount: 2,
         delay: ''
-      },{
+      }, {
         name: 'M939 Transport Truck',
         amount: 1,
         delay: ''
-      },{
+      }, {
         name: 'TAPV',
         amount: 2,
         delay: ''
@@ -2195,15 +2195,15 @@ module.exports = {
         name: 'LAV 6.0',
         amount: 3,
         delay: ''
-      },{
+      }, {
         name: 'TAPV',
         amount: 1,
         delay: ''
-      },{
+      }, {
         name: 'M939 Logistics Truck',
         amount: 3,
         delay: ''
-      },{
+      }, {
         name: 'M939 Transport Truck',
         amount: 1,
         delay: '06:00'
@@ -2216,23 +2216,23 @@ module.exports = {
         name: 'BTR-82A IFV',
         amount: 2,
         delay: ''
-      },{
+      }, {
         name: 'BMP-2 IFV',
         amount: 1,
         delay: ''
-      },{
+      }, {
         name: 'Ural 375 Transport Truck',
         amount: 1,
         delay: '06:00'
-      },{
+      }, {
         name: 'Ural 375 Logistics Truck',
         amount: 3,
         delay: ''
-      },{
+      }, {
         name: 'BTR-80 APC',
         amount: 1,
         delay: ''
-      },{
+      }, {
         name: 'BRDM-2 Scout Car',
         amount: 1,
         delay: ''

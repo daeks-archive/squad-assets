@@ -72,7 +72,6 @@ Gorodok RAAS v4
 Gorodok RAAS v5
 Gorodok Skirmish v1
 Gorodok TC v1
-// Infantry Tutorial
 // Jensen's Range v1
 // Jensen's Range v2
 // Jensen's Range v3
@@ -107,9 +106,6 @@ Kokan RAAS v2
 Kokan Skirmish v1
 Kokan TC v1
 Kokan Valley AAS v1
-// LL_Daytime
-// LL_Manic_FoggyMorning
-// LL_SnowStorm
 Logar Valley AAS v1
 Logar Valley AAS v2
 Logar Valley Insurgency v1
@@ -128,8 +124,6 @@ Mutaha RAAS v1
 Mutaha Skirmish v1
 Mutaha TC v1
 Mutaha TC v2
-// Nanisivik
-// Nanisivik_Overcast
 Narva AAS v1
 Narva AAS v2
 Narva AAS v3
