@@ -1,16 +1,8 @@
-
-         
-     
-D NET: Validate Squad Assets
 [MAPDATA] Missing Index: Chora_Invasion_v2
 [MAPDATA] Missing Index: Fool's_Road_AAS_v2
 [MAPDATA] Missing Index: Fool's_Road_Invasion_v1
 [MAPDATA] Missing Index: Sumari_Invasion_v1
 [MAPDATA] Missing Index: Tallil_Outskirts_Invasion_v3
-[MAPDATA] Missing Index: Tallil_Outskirts_Tanks_v1
-[MAPDATA] Missing Index: Tallil_Outskirts_Tanks_v2
-[IMAGE] Missing Image: ./assets/squad/maps/128x128/Manic.png
-[IMAGE] Missing Image: ./assets/squad/maps/375x211/Manic.png
 [IMAGE] Missing Image: ./assets/squad/layers/Manic_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Manic_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Manic_Invasion_v2.jpg
@@ -29,7 +21,6 @@ D NET: Validate Squad Assets
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Manic_Skirmish_v2.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Manic_TC_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Manic_TC_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/375x211/Nanisivik.png
 [IMAGE] Missing Image: ./assets/squad/layers/Nanisivik_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Nanisivik_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Nanisivik_Invasion_v2.jpg
@@ -50,38 +41,17 @@ D NET: Validate Squad Assets
 [IMAGE] Missing Image: ./assets/squad/maps/1200x375/Jensens_Range.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Jensens_Range_v4.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Jensens_Range_v4.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Kokan_AAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Kokan_AAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/Logar.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/128x128/Logar.png
-[IMAGE] Missing Image: ./assets/squad/maps/375x211/Logar.png
-[IMAGE] Missing Image: ./assets/squad/maps/1200x375/Logar.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_AAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_AAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_AAS_v2.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_AAS_v2.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_Insurgency_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_Insurgency_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_RAAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_RAAS_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_Skirmish_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_Skirmish_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/Logar_TC_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/layers/300x300/Logar_TC_v1.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/128x128/Mutaha.png
+[IMAGE] Missing Image: ./assets/squad/maps/Kokan_Valley.jpg
+[IMAGE] Missing Image: ./assets/squad/maps/128x128/Kokan_Valley.png
+[IMAGE] Missing Image: ./assets/squad/maps/375x211/Kokan_Valley.png
+[IMAGE] Missing Image: ./assets/squad/maps/1200x375/Kokan_Valley.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Sumari_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Sumari_Invasion_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Tallil_Outskirts_Invasion_v3.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Tallil_Outskirts_Invasion_v3.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/Tallil_Outskirts_Tanks.jpg
-[IMAGE] Missing Image: ./assets/squad/maps/128x128/Tallil_Outskirts_Tanks.png
-[IMAGE] Missing Image: ./assets/squad/maps/375x211/Tallil_Outskirts_Tanks.png
-[IMAGE] Missing Image: ./assets/squad/maps/1200x375/Tallil_Outskirts_Tanks.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Tallil_Outskirts_Tanks_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Tallil_Outskirts_Tanks_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Tallil_Outskirts_Tanks_v2.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Tallil_Outskirts_Tanks_v2.jpg
 [MAPDATA] Invalid Index: Chora_Invasion_v1_Night
 [MAPDATA] Invalid Index: Fool's_Road_AAS_v3
-[MAPDATA] Invalid Index: Tallil_Outskirts_Tanks_v1_Experimental
-[MAPDATA] Invalid Index: Tallil_Outskirts_Tanks_v2_Experimental

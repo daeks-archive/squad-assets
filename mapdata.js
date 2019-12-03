@@ -9767,7 +9767,7 @@ module.exports = {
       }]
     }
   },
-  Tallil_Outskirts_Tanks_v1_Experimental: {
+  Tallil_Outskirts_Tanks_v1: {
     flags: ['Gas Town', 'Central Airfield', 'Batha'],
     plugin: 'OffworldCore',
     weather: '',
@@ -9815,7 +9815,7 @@ module.exports = {
       }]
     }
   },
-  Tallil_Outskirts_Tanks_v2_Experimental: {
+  Tallil_Outskirts_Tanks_v2: {
     flags: ['Gas Town', 'Centrail Airfield', 'Batha'],
     plugin: 'OffworldCore',
     weather: '',
