@@ -1725,7 +1725,7 @@ module.exports = {
         amount: 1,
         delay: ''
       }, {
-        name: 'Minks Motorcycle',
+        name: 'Minsk Motorcycle',
         amount: 14,
         delay: ''
       }]
@@ -1773,7 +1773,7 @@ module.exports = {
       name: 'RUS',
       tickets: 150,
       vehicles: [{
-        name: 'T72-B3 MBT',
+        name: 'T-72B3 MBT',
         amount: 1,
         delay: ''
       }, {
@@ -1849,7 +1849,7 @@ module.exports = {
         amount: 1,
         delay: ''
       }, {
-        name: 'M9r9 Transport Truck',
+        name: 'M9R9 Transport Truck',
         amount: 1,
         delay: '06:00'
       }, {
@@ -2277,7 +2277,7 @@ module.exports = {
       name: 'RUS',
       tickets: 150,
       vehicles: [{
-        name: 'T72-B3 MBT',
+        name: 'T-72B3 MBT',
         amount: 2,
         delay: '04:00'
       }, {
@@ -2357,7 +2357,7 @@ module.exports = {
         amount: 2,
         delay: ''
       }, {
-        name: 'M2A3 IFV1',
+        name: 'M2A3 IFV',
         amount: 2,
         delay: ''
       }, {
@@ -2425,7 +2425,7 @@ module.exports = {
         amount: 2,
         delay: ''
       }, {
-        name: 'Mi-8 Hip',
+        name: 'MI-8 Hip',
         amount: 1,
         delay: ''
       }, {
@@ -2460,11 +2460,11 @@ module.exports = {
         amount: 2,
         delay: ''
       }, {
-        name: 'LUV-1 Transport',
+        name: 'LUV-A1 Transport',
         amount: 2,
         delay: ''
       }, {
-        name: 'LUV-1 Logistics',
+        name: 'LUV-A1 Logistics',
         amount: 2,
         delay: ''
       }, {
@@ -2557,7 +2557,7 @@ module.exports = {
         amount: 3,
         delay: ''
       }, {
-        name: 'MT-LB ZU-23 Anti-Air APC',
+        name: 'MT-LB ZU-23 Anti Air APC',
         amount: 1,
         delay: ''
       }, {
@@ -2625,7 +2625,7 @@ module.exports = {
         amount: 3,
         delay: ''
       }, {
-        name: 'Mi-8 Hip',
+        name: 'MI-8 Hip',
         amount: 2,
         delay: ''
       }, {

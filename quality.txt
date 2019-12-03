@@ -1,11 +1,7 @@
-[MAPDATA] Missing Index: CAF_Manic_TC_v1
-[MAPDATA] Missing Index: CAF_Nanisivik_Invasion_v1
-[MAPDATA] Missing Index: CAF_Nanisivik_Invasion_v2
-[MAPDATA] Missing Index: CAF_Nanisivik_RAAS_v1
-[MAPDATA] Missing Index: CAF_Nanisivik_RAAS_v2
-[MAPDATA] Missing Index: CAF_Yehorivka_Invasion_v1
-[MAPDATA] Missing Index: CAF_Yehorivka_RAAS_v1
-[MAPDATA] Missing Index: CAF_Yehorivka_TC_V1
+
+         
+     
+D NET: Validate Squad Assets
 [MAPDATA] Missing Index: Chora_Invasion_v2
 [MAPDATA] Missing Index: Fool's_Road_AAS_v2
 [MAPDATA] Missing Index: Fool's_Road_Invasion_v1
@@ -85,7 +81,6 @@
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Tallil_Outskirts_Tanks_v1.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/Tallil_Outskirts_Tanks_v2.jpg
 [IMAGE] Missing Image: ./assets/squad/layers/300x300/Tallil_Outskirts_Tanks_v2.jpg
-[MAPDATA] Invalid Index: CAF_Manic_TV_v1
 [MAPDATA] Invalid Index: Chora_Invasion_v1_Night
 [MAPDATA] Invalid Index: Fool's_Road_AAS_v3
 [MAPDATA] Invalid Index: Tallil_Outskirts_Tanks_v1_Experimental
