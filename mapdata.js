@@ -75,6 +75,22 @@ module.exports = {
       }]
     }
   },
+  Al_Basrah_AAS_v2: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Sunny Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 250,
+      vehicles: []
+    },
+    team2: {
+      name: 'INS',
+      tickets: 250,
+      vehicles: []
+    }
+  },
   Al_Basrah_Insurgency_v1: {
     flags: [],
     plugin: 'OffworldCore',
@@ -167,7 +183,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'BMP-1 IFV',
         amount: 1,
@@ -243,7 +259,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -695,6 +711,22 @@ module.exports = {
       }]
     }
   },
+  Belaya_AAS_v2: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Sunny Mid Day',
+    size: '2x4',
+    team1: {
+      name: 'GB',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
   Belaya_Invasion_v1: {
     flags: ['Upper Velino', 'Lumber Yard', 'Coal Mine', 'Train Tunnel', 'Homestead', 'Aniva'],
     plugin: 'OffworldCore',
@@ -807,7 +839,7 @@ module.exports = {
     },
     team2: {
       name: 'RUS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'T-72B3 MBT',
         amount: 1,
@@ -875,7 +907,7 @@ module.exports = {
     },
     team2: {
       name: 'RUS',
-      tickets: 800,
+      tickets: 700,
       vehicles: [{
         name: 'T-72B3 MBT',
         amount: 1,
@@ -1231,11 +1263,167 @@ module.exports = {
       }]
     }
   },
+  CAF_Al_Basrah_Invasion_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Sunny Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 150,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    },
+    team2: {
+      name: 'INS',
+      tickets: 800,
+      vehicles: [{
+        name: 'T-62 MBT',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BMP-1 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 4,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Armored Technical SPG-9',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Minsk Motorcycle',
+        amount: 8,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Belaya_AAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Overcast',
+    size: '2x4',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Belaya_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Sunny Mid Day',
+    size: '2x4',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Belaya_RAAS_v2: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Overcast',
+    size: '2x4',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Chora_AAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Sunny Mid Day',
+    size: '1x2',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Gorodok_AAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Overcast Mid Day',
+    size: '4x4',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 300,
+      vehicles: []
+    }
+  },
   CAF_Gorodok_Invasion_v1: {
     flags: ['Fruit Farm', 'Ambush Hill', 'Hilltop Old Bunker', 'Pavlow\'s Farm', 'Boris\' Farmstead', 'Tunnel Defenses'],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunset',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 150,
@@ -1263,7 +1451,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -1302,8 +1490,8 @@ module.exports = {
   CAF_Gorodok_RAAS_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunny Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 300,
@@ -1366,8 +1554,8 @@ module.exports = {
   CAF_Gorodok_RAAS_v2: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunny Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 300,
@@ -1434,8 +1622,8 @@ module.exports = {
   CAF_Gorodok_TC_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunset',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 300,
@@ -1487,11 +1675,43 @@ module.exports = {
       }]
     }
   },
+  CAF_Lashkar_Valley_Invasion_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Early Morning',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 200,
+      vehicles: []
+    },
+    team2: {
+      name: 'INS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Lashkar_Valley_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Rainstorm',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
   CAF_Kamdesh_Invasion_v1: {
     flags: ['Urmul', 'Agasi', 'Naray', 'Manyal', 'Godri', 'Storage Bunker'],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunset',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 150,
@@ -1558,8 +1778,8 @@ module.exports = {
   CAF_Kamdesh_RAAS_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Stormy',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 300,
@@ -1610,8 +1830,8 @@ module.exports = {
   CAF_Kamdesh_TC_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Stormy',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 400,
@@ -1662,8 +1882,8 @@ module.exports = {
   CAF_Kohat_Invasion_v1: {
     flags: ['Sumi Khel', 'Chakar Kot', 'Ali Abad', 'Khadizai Radio Tower'],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunny Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 150,
@@ -1691,7 +1911,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 600,
+      tickets: 700,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -1731,10 +1951,98 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_Invasion_v1: {
-    flags: ['Logistics Center', 'Lower Baie Comeau', 'Lodging Site', 'Maintenance Yard'],
+  'CAF_Manic-5_AAS_v1': {
+    flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Mid Day',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'T-72B3 MBT',
+        amount: 1,
+        delay: '10:00'
+      }, {
+        name: 'BMP-2 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'MI-8 Hip',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    }
+  },
+  'CAF_Manic-5_AAS_v2': {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Mid Day',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  'CAF_Manic-5_Invasion_v1': {
+    flags: ['East Baie Comeau', 'Upper Baie Comeau', 'Lodging Site', 'Administration'],
+    plugin: 'CanadianArmedForces',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -1799,14 +2107,14 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_Invasion_v2: {
+  'CAF_Manic-5_Invasion_v2': {
     flags: ['East Baie Comeau', 'Baie Comeau Heights', 'Crash Site', 'Power Station'],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Sunset',
     size: '',
     team1: {
       name: 'CAF',
-      tickets: 700,
+      tickets: 150,
       vehicles: [{
         name: 'M939 Transport Truck',
         amount: 1,
@@ -1835,7 +2143,7 @@ module.exports = {
     },
     team2: {
       name: 'USA',
-      tickets: 150,
+      tickets: 700,
       vehicles: [{
         name: 'M1126 M2HB APC',
         amount: 2,
@@ -1863,10 +2171,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_RAAS_v1: {
+  'CAF_Manic-5_RAAS_v1': {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -1927,10 +2235,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_RAAS_v2: {
+  'CAF_Manic-5_RAAS_v2': {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Sunset',
     size: '',
     team1: {
       name: 'CAF',
@@ -1999,10 +2307,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_RAAS_v3: {
+  'CAF_Manic-5_RAAS_v3': {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -2055,10 +2363,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_RAAS_v4: {
+  'CAF_Manic-5_RAAS_v4': {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -2119,10 +2427,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_Skirmish_v1: {
+  'CAF_Manic-5_Skirmish_v1': {
     flags: ['Antenna Facility', 'Fermont', 'Crash Site', 'Lower Baie Comeau', 'East Baie Comeau'],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -2159,10 +2467,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_Skirmish_v2: {
+  'CAF_Manic-5_Skirmish_v2': {
     flags: ['Trench Line', 'Upper Baie Comeau', 'Lower Baie Comeau', 'Baie Comeau Heights', 'East Baie Comeau'],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
     size: '',
     team1: {
       name: 'CAF',
@@ -2183,10 +2491,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Manic_TC_v1: {
+  'CAF_Manic-5_TC_v1': {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Sunset',
     size: '',
     team1: {
       name: 'CAF',
@@ -2239,14 +2547,154 @@ module.exports = {
       }]
     }
   },
-  CAF_Nanisivik_Invasion_v1: {
-    flags: ['Shimik', 'Drill Site', 'Research Station', 'Cambridge Bay', 'Tailing Pond'],
+  CAF_Mestia_RAAS_v1: {
+    flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Overcast',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 250,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 250,
+      vehicles: [{
+        name: 'BRDM-2 Scout Car',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Minsk Motorcycle',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  CAF_Mutaha_AAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Sunset',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  CAF_Mutaha_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Mixed Clouds Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'CAF',
+      tickets: 300,
+      vehicles: [{
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: '06:00'
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: [{
+        name: 'BMP-2 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'MI-8 Hip',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    }
+  },
+  CAF_Nanisivik_AAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Snowstorm',
     size: '',
     team1: {
       name: 'CAF',
-      tickets: 700,
+      tickets: 350,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: []
+    }
+  },
+  CAF_Nanisivik_Invasion_v1: {
+    flags: ['Shimik', 'Drill Site', 'Research Station', 'Cambridge Bay', 'Tailing Pond'],
+    plugin: 'CanadianArmedForces',
+    weather: 'Snowstorm',
+    size: '',
+    team1: {
+      name: 'CAF',
+      tickets: 800,
       vehicles: [{
         name: 'Leopard 2A6M',
         amount: 2,
@@ -2303,78 +2751,10 @@ module.exports = {
       }]
     }
   },
-  CAF_Nanisivik_Invasion_v2: {
-    flags: ['Harbour', 'Drill Site', 'Taggut Coop', 'Airfield'],
-    plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
-    team1: {
-      name: 'CAF',
-      tickets: 700,
-      vehicles: [{
-        name: 'Leopard 2A6M',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'M939 Transport Truck',
-        amount: 1,
-        delay: '06:00'
-      }, {
-        name: 'LAV 6.0',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'M939 Logistics Truck',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'LUV-A1 Logistics',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'LUV-A1 Transport',
-        amount: 1,
-        delay: ''
-      }, {
-        name: 'LUV-A1 Logistics',
-        amount: 2,
-        delay: ''
-      }]
-    },
-    team2: {
-      name: 'USA',
-      tickets: 150,
-      vehicles: [{
-        name: 'M1A2 MBT',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'M-ATV TOW',
-        amount: 1,
-        delay: ''
-      }, {
-        name: 'M1126 M2HB APC',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'M2A3 IFV',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'M939 Logistics Truck',
-        amount: 3,
-        delay: ''
-      }, {
-        name: 'M939 Transport Truck',
-        amount: 1,
-        delay: '06:00'
-      }]
-    }
-  },
   CAF_Nanisivik_RAAS_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
+    weather: 'Snowstorm',
     size: '',
     team1: {
       name: 'CAF',
@@ -2439,75 +2819,143 @@ module.exports = {
       }]
     }
   },
-  CAF_Nanisivik_RAAS_v2: {
+  CAF_Narva_RAAS_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Mixed Clouds Mid Day',
+    size: '2x2',
     team1: {
       name: 'CAF',
-      tickets: 350,
+      tickets: 300,
       vehicles: [{
         name: 'Leopard 2A6M',
         amount: 1,
-        delay: ''
+        delay: '30:00'
       }, {
         name: 'LAV 6.0',
         amount: 2,
         delay: ''
       }, {
         name: 'M939 Logistics Truck',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'LUV-A1 Transport',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'LUV-A1 Logistics',
-        amount: 2,
+        amount: 3,
         delay: ''
       }, {
         name: 'M939 Transport Truck',
         amount: 1,
         delay: '06:00'
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
       }]
     },
     team2: {
-      name: 'USA',
-      tickets: 350,
+      name: 'RUS',
+      tickets: 300,
       vehicles: [{
-        name: 'M1A2 MBT',
+        name: 'T-72B3 MBT',
+        amount: 1,
+        delay: '30:00'
+      }, {
+        name: 'BMP-2 IFV',
         amount: 1,
         delay: ''
       }, {
-        name: 'M1126 M2HB APC',
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
         amount: 1,
         delay: ''
       }, {
-        name: 'M-ATV TOW',
-        amount: 1,
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
         delay: ''
       }, {
-        name: 'M939 Transport Truck',
+        name: 'Ural 4320 Transport Truck',
         amount: 1,
         delay: '06:00'
+      }]
+    }
+  },
+  CAF_Tallil_Outskirts_RAAS_v1: {
+    flags: [],
+    plugin: 'CanadianArmedForces',
+    weather: 'Sunny Mid Day',
+    size: '5x5',
+    team1: {
+      name: 'CAF',
+      tickets: 350,
+      vehicles: [{
+        name: 'Leopard 2A6M',
+        amount: 2,
+        delay: '20:00'
+      }, {
+        name: 'LAV 6.0',
+        amount: 3,
+        delay: ''
       }, {
         name: 'M939 Logistics Truck',
         amount: 3,
         delay: ''
       }, {
-        name: 'M2A3 IFV',
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'TAPV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 2,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 350,
+      vehicles: [{
+        name: 'T-72B3 MBT',
+        amount: 2,
+        delay: '20:00'
+      }, {
+        name: 'BMP-2 IFV',
         amount: 1,
         delay: ''
+      }, {
+        name: 'BRDM-2 Spandrel',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BTR-82A IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'MI-8 Hip',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Ural 4320 Transport Truck',
+        amount: 1,
+        delay: '06:00'
       }]
     }
   },
   CAF_Yehorivka_Invasion_v1: {
     flags: ['Upper Petrivka', 'Lower Petrivka', 'East Mogilyovo', 'East Novo', 'Yeho Airfield'],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Sunrise',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 150,
@@ -2535,7 +2983,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -2570,8 +3018,8 @@ module.exports = {
   CAF_Yehorivka_RAAS_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Mixed Clouds Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 350,
@@ -2639,11 +3087,11 @@ module.exports = {
       }]
     }
   },
-  CAF_Yehorivka_TC_V1: {
+  CAF_Yehorivka_TC_v1: {
     flags: [],
     plugin: 'CanadianArmedForces',
-    weather: '',
-    size: '',
+    weather: 'Mixed Clouds Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 300,
@@ -2879,7 +3327,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'ZU-23 Anti-Air Truck',
         amount: 1,
@@ -2911,11 +3359,11 @@ module.exports = {
       }]
     }
   },
-  Chora_Invasion_v1_Night: {
-    flags: ['Mosque', 'Hemp Farm', 'Poppy Farm', 'Orchard', 'Nursery', 'Monolith'],
+  Chora_Invasion_v2: {
+    flags: [],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Early Dark',
+    size: '1x2',
     team1: {
       name: 'USA',
       tickets: 150,
@@ -2924,44 +3372,24 @@ module.exports = {
         amount: 2,
         delay: ''
       }, {
-        name: 'M-ATV M2HB',
-        amount: 2,
+        name: 'M939 Logistics Truck',
+        amount: 3,
         delay: ''
       }, {
         name: 'M939 Transport Truck',
         amount: 1,
         delay: '06:00'
       }, {
-        name: 'M939 Logistics Truck',
-        amount: 3,
+        name: 'M-ATV M2HB',
+        amount: 2,
         delay: ''
       }]
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
-        name: 'Transport Technical',
-        amount: 1,
-        delay: ''
-      }, {
-        name: 'Logistics Technical',
-        amount: 3,
-        delay: ''
-      }, {
-        name: 'Armored Technical DshK',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'ZU-23 Anti-Air Truck',
-        amount: 2,
-        delay: ''
-      }, {
-        name: 'Armored Technical DshK',
-        amount: 1,
-        delay: '06:00'
-      }, {
-        name: 'Technical SPG-9',
+        name: 'MT-LB APC',
         amount: 1,
         delay: ''
       }, {
@@ -2969,7 +3397,27 @@ module.exports = {
         amount: 2,
         delay: ''
       }, {
-        name: 'MT-LB APC',
+        name: 'Armored Technical DshK',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
         amount: 1,
         delay: ''
       }, {
@@ -3179,7 +3627,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_AAS_v1": {
+  Fools_Road_AAS_v1: {
     flags: ['Mine Entrance', 'Train Station', 'Ammo Hill', 'Fortress', 'Hilltop Encampment'],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3251,11 +3699,11 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_AAS_v3": {
-    flags: ['Dylym', 'Hill 123', 'Verto', 'FOB Papanov', 'Hilltop Encampment', 'Ammo Hill', 'OP Fortress'],
+  Fools_Road_AAS_v2: {
+    flags: [],
     plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    weather: 'Sunny Afternoon',
+    size: '2x2',
     team1: {
       name: 'GB',
       tickets: 250,
@@ -3264,50 +3712,114 @@ module.exports = {
         amount: 1,
         delay: ''
       }, {
-        name: 'HX60 Transport Truck',
-        amount: 1,
-        delay: '06:00'
+        name: 'FV432 APC',
+        amount: 2,
+        delay: ''
       }, {
         name: 'HX60 Logistics Truck',
         amount: 3,
         delay: ''
       }, {
-        name: 'FV432 APC',
-        amount: 2,
-        delay: ''
+        name: 'HX60 Transport Truck',
+        amount: 1,
+        delay: '06:00'
       }]
     },
     team2: {
       name: 'MIL',
       tickets: 250,
       vehicles: [{
-        name: 'MT-LBM 6MB IFV',
-        amount: 1,
-        delay: ''
-      }, {
         name: 'BMP-1 IFV',
         amount: 1,
         delay: ''
       }, {
-        name: 'Ural 375 Transport Truck',
-        amount: 1,
-        delay: '06:00'
-      }, {
-        name: 'Ural 375 Logistics Truck',
-        amount: 3,
-        delay: ''
-      }, {
-        name: 'BTR-80 APC',
+        name: 'MT-LBM 6MB IFV',
         amount: 1,
         delay: ''
       }, {
         name: 'BRDM-2 Scout Car',
         amount: 1,
         delay: ''
+      }, {
+        name: 'BTR-80 APC',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Ural 375 Transport Truck',
+        amount: 1,
+        delay: '06:00'
       }]
     }
   },
-  "Fool's_Road_RAAS_v1": {
+  Fools_Road_Invasion_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Sunny Afternoon',
+    size: '2x2',
+    team1: {
+      name: 'GB',
+      tickets: 150,
+      vehicles: [{
+        name: 'FV510 IFV',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'FV432 APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'HX60 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'HX60 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }]
+    },
+    team2: {
+      name: 'MIL',
+      tickets: 700,
+      vehicles: [{
+        name: 'BMP-1 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Technical SPG-9',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Minsk Motorcycle',
+        amount: 4,
+        delay: '06:00'
+      }]
+    }
+  },
+  Fools_Road_RAAS_v1: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3379,7 +3891,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_RAAS_v2": {
+  Fools_Road_RAAS_v2: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3443,7 +3955,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_RAAS_v3": {
+  Fools_Road_RAAS_v3: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Overcast',
@@ -3511,7 +4023,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_Destruction_v1": {
+  Fools_Road_Destruction_v1: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3579,7 +4091,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_Skirmish_v1": {
+  Fools_Road_Skirmish_v1: {
     flags: ['OP Fortress', 'Logging Site', 'Train Station', 'Ridgeline', 'Mine Entrance'],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3611,7 +4123,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_Skirmish_v2": {
+  Fools_Road_Skirmish_v2: {
     flags: ['Verto', 'Hilltop Emcampment', 'Homestead'],
     plugin: 'OffworldCore',
     weather: 'Sunny Afternoon',
@@ -3643,7 +4155,7 @@ module.exports = {
       }]
     }
   },
-  "Fool's_Road_TC_v1": {
+  Fools_Road_TC_v1: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Mid Day',
@@ -4035,7 +4547,7 @@ module.exports = {
     },
     team2: {
       name: 'RUS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'BTR-82A IFV',
         amount: 2,
@@ -4107,7 +4619,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -4583,7 +5095,7 @@ module.exports = {
       }]
     }
   },
-  "Jensen's_Range_v1": {
+  Jensens_Range_v1: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Mid Day',
@@ -4599,7 +5111,7 @@ module.exports = {
       vehicles: []
     }
   },
-  "Jensen's_Range_v2": {
+  Jensens_Range_v2: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Mid Day',
@@ -4615,7 +5127,7 @@ module.exports = {
       vehicles: []
     }
   },
-  "Jensen's_Range_v3": {
+  Jensens_Range_v3: {
     flags: [],
     plugin: 'OffworldCore',
     weather: 'Sunny Mid Day',
@@ -4631,11 +5143,11 @@ module.exports = {
       vehicles: []
     }
   },
-  Jensens_Range_v4: {
+  CAF_Jensens_Range_v4: {
     flags: [],
-    plugin: 'OffworldCore',
-    weather: '',
-    size: '',
+    plugin: 'CAF',
+    weather: 'Sunny Mid Day',
+    size: '4x4',
     team1: {
       name: 'CAF',
       tickets: 999999,
@@ -4856,7 +5368,7 @@ module.exports = {
     }
   },
   Kamdesh_Invasion_v1: {
-    flags: ['Toba', 'Aringshah', 'Alingul', 'Kaga', 'Hemp Farm', 'Nilaw'],
+    flags: ['OP Chaxton', 'Aringshah', 'Firing Range', 'Kotal', 'Khail', 'Nilaw'],
     plugin: 'OffworldCore',
     weather: 'Stormy',
     size: '4x4',
@@ -4891,7 +5403,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'Logistics Technical',
         amount: 4,
@@ -4971,7 +5483,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -5575,6 +6087,22 @@ module.exports = {
       }]
     }
   },
+  Kohat_AAS_v2: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Mid Day',
+    size: '4x4',
+    team1: {
+      name: 'USA',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
   Kohat_Insurgency_v1: {
     flags: [],
     plugin: 'OffworldCore',
@@ -5707,7 +6235,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -6179,7 +6707,7 @@ module.exports = {
       }]
     }
   },
-  Kokan_Valley_AAS_v1: {
+  Kokan_AAS_v1: {
     flags: ['First Stand', 'Gran Dell', 'Sarak', 'Tempest Estate', 'Market', 'Ruins', 'Stonebend'],
     plugin: 'OffworldCore',
     weather: 'Overcast',
@@ -6299,7 +6827,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'Transport Technical',
         amount: 1,
@@ -6533,6 +7061,134 @@ module.exports = {
         amount: 3,
         delay: ''
       }]
+    }
+  },
+  Lashkar_Valley_AAS_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'GB',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_AAS_v2: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_Insurgency_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Early Morning',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 200,
+      vehicles: []
+    },
+    team2: {
+      name: 'INS',
+      tickets: 800,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_Invasion_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: []
+    },
+    team2: {
+      name: 'INS',
+      tickets: 900,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_RAAS_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Early Morning',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_Skirmish_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Mid Day',
+    size: '2x2',
+    team1: {
+      name: 'MIL',
+      tickets: 200,
+      vehicles: []
+    },
+    team2: {
+      name: 'INS',
+      tickets: 200,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_TC_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Rain Storm',
+    size: '2x2',
+    team1: {
+      name: 'GB',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
+    }
+  },
+  Lashkar_Valley_TC_v2: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Rain Storm',
+    size: '2x2',
+    team1: {
+      name: 'USA',
+      tickets: 300,
+      vehicles: []
+    },
+    team2: {
+      name: 'RUS',
+      tickets: 300,
+      vehicles: []
     }
   },
   Logar_Valley_AAS_v1: {
@@ -6947,7 +7603,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'Technical SPG-9',
         amount: 1,
@@ -7015,7 +7671,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'BRDM-2 Spandrel',
         amount: 1,
@@ -7315,7 +7971,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 600,
+      tickets: 800,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -7424,7 +8080,7 @@ module.exports = {
     }
   },
   Mutaha_Skirmish_v1: {
-    flags: ['Baraka Rd North', 'Baraka Market', 'Baraka Rd South', 'Arvand View'],
+    flags: ['Baraka Rd North', 'Baraka Market', 'Collapsed Crane', 'Baraka Rd South', 'Arvand View'],
     plugin: 'OffworldCore',
     weather: 'Sandstorm',
     size: '2x2',
@@ -7798,7 +8454,7 @@ module.exports = {
     size: '2x2',
     team1: {
       name: 'USA',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'M1126 M2HB APC',
         amount: 2,
@@ -7891,7 +8547,7 @@ module.exports = {
     },
     team2: {
       name: 'RUS',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'T-72B3 MBT',
         amount: 1,
@@ -8555,7 +9211,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 800,
+      tickets: 900,
       vehicles: [{
         name: 'BRDM-2 Spandrel',
         amount: 1,
@@ -8619,7 +9275,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'Transport Technical',
         amount: 1,
@@ -8871,6 +9527,54 @@ module.exports = {
       }, {
         name: 'Minsk Motorcycle',
         amount: 3,
+        delay: ''
+      }]
+    }
+  },
+  Sumari_Invasion_v1: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Sunrise',
+    size: '1x1',
+    team1: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: [{
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M-ATV M2HB',
+        amount: 3,
+        delay: ''
+      }]
+    },
+    team2: {
+      name: 'INS',
+      tickets: 900,
+      vehicles: [{
+        name: 'Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 4,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Minsk Motorcycle',
+        amount: 8,
         delay: ''
       }]
     }
@@ -9223,7 +9927,7 @@ module.exports = {
     },
     team2: {
       name: 'RUS',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'T-72B3 MBT',
         amount: 2,
@@ -9295,7 +9999,7 @@ module.exports = {
     },
     team2: {
       name: 'INS',
-      tickets: 600,
+      tickets: 700,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -9322,6 +10026,82 @@ module.exports = {
         delay: ''
       }, {
         name: 'Technical SPG-9',
+        amount: 1,
+        delay: ''
+      }]
+    }
+  },
+  Tallil_Outskirts_Invasion_v3: {
+    flags: [],
+    plugin: 'OffworldCore',
+    weather: 'Morning Sunrise',
+    size: '4x4',
+    team1: {
+      name: 'USA',
+      tickets: 150,
+      vehicles: [{
+        name: 'M2A3 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'M1126 M2HB APC',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'M939 Logistics Truck',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'M939 Transport Truck',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'M-ATV M240',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'UH-60M Grouse',
+        amount: 1,
+        delay: '20:00'
+      }]
+    },
+    team2: {
+      name: 'INS',
+      tickets: 800,
+      vehicles: [{
+        name: 'BMP-1 IFV',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'BRDM-2 Scout Car',
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'Armored Technical DshK',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Logistics Technical',
+        amount: 3,
+        delay: ''
+      }, {
+        name: 'Armored Technical SPG-9',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Transport Technical',
+        amount: 1,
+        delay: '06:00'
+      }, {
+        name: 'Technical UB-32 Rocket Artillery',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'Ural 375 Logistics Truck',
+        amount: 2,
+        delay: ''
+      }, {
+        name: 'ZU-23 Anti-Air Truck',
         amount: 1,
         delay: ''
       }]
@@ -10199,7 +10979,7 @@ module.exports = {
     },
     team2: {
       name: 'MIL',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'T-62 MBT',
         amount: 1,
@@ -10246,7 +11026,7 @@ module.exports = {
     size: '5x5',
     team1: {
       name: 'USA',
-      tickets: 700,
+      tickets: 800,
       vehicles: [{
         name: 'M2A3 IFV',
         amount: 2,
