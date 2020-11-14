@@ -99,7 +99,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Al_Basrah_AAS_v2": {
     "flags": [],
@@ -116,7 +120,11 @@
       "tickets": 250,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Al_Basrah_Insurgency_v1": {
     "flags": [],
@@ -190,7 +198,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Al_Basrah_Invasion_v1": {
     "flags": [
@@ -286,7 +298,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Al_Basrah_Invasion_v2": {
     "flags": [
@@ -396,7 +412,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Al_Basrah_RAAS_v1": {
     "flags": [],
@@ -515,7 +535,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Al_Basrah_Skirmish_v1": {
     "flags": [
@@ -560,7 +584,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Al_Basrah_Skirmish_v2": {
     "flags": [
@@ -624,7 +652,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Al_Basrah_TC_v1": {
     "flags": [],
@@ -713,7 +745,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Al_Basrah_TC_v2": {
     "flags": [],
@@ -807,7 +843,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Belaya_AAS_v1": {
     "flags": [
@@ -912,7 +952,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Belaya_AAS_v2": {
     "flags": [],
@@ -929,7 +973,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Belaya_Invasion_v1": {
     "flags": [
@@ -1025,7 +1073,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Belaya_Invasion_v2": {
     "flags": [
@@ -1126,7 +1178,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Belaya_Invasion_v3": {
     "flags": [
@@ -1221,7 +1277,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Belaya_RAAS_v1": {
     "flags": [],
@@ -1310,7 +1370,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Belaya_RAAS_v2": {
     "flags": [],
@@ -1394,7 +1458,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Belaya_RAAS_v3": {
     "flags": [],
@@ -1483,7 +1551,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Belaya_Skirmish_v1": {
     "flags": [
@@ -1528,7 +1600,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Belaya_TC_v1": {
     "flags": [],
@@ -1617,7 +1693,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Al_Basrah_Invasion_v1": {
     "flags": [],
@@ -1711,7 +1791,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Belaya_AAS_v1": {
     "flags": [],
@@ -1728,7 +1812,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Belaya_RAAS_v1": {
     "flags": [],
@@ -1745,7 +1833,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Belaya_RAAS_v2": {
     "flags": [],
@@ -1762,7 +1854,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Chora_AAS_v1": {
     "flags": [],
@@ -1779,7 +1875,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 40,
+      "max": 100
+    }
   },
   "CAF_Gorodok_AAS_v1": {
     "flags": [],
@@ -1796,7 +1896,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Gorodok_Invasion_v1": {
     "flags": [
@@ -1887,7 +1991,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Gorodok_RAAS_v1": {
     "flags": [],
@@ -1966,7 +2074,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Gorodok_RAAS_v2": {
     "flags": [],
@@ -2050,7 +2162,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Gorodok_TC_v1": {
     "flags": [],
@@ -2119,7 +2235,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Lashkar_Valley_Invasion_v1": {
     "flags": [],
@@ -2136,7 +2256,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Lashkar_Valley_RAAS_v1": {
     "flags": [],
@@ -2153,7 +2277,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Kamdesh_Invasion_v1": {
     "flags": [
@@ -2244,7 +2372,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Kamdesh_RAAS_v1": {
     "flags": [],
@@ -2308,7 +2440,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 40,
+      "max": 100
+    }
   },
   "CAF_Kamdesh_TC_v1": {
     "flags": [],
@@ -2372,7 +2508,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 40,
+      "max": 100
+    }
   },
   "CAF_Kohat_Invasion_v1": {
     "flags": [
@@ -2466,7 +2606,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_AAS_v1": {
     "flags": [],
@@ -2555,7 +2699,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_AAS_v2": {
     "flags": [],
@@ -2572,7 +2720,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Manic-5_Invasion_v1": {
     "flags": [
@@ -2661,7 +2813,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_Invasion_v2": {
     "flags": [
@@ -2745,7 +2901,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_RAAS_v1": {
     "flags": [],
@@ -2824,7 +2984,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_RAAS_v2": {
     "flags": [],
@@ -2913,7 +3077,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Manic-5_RAAS_v3": {
     "flags": [],
@@ -2982,7 +3150,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Manic-5_RAAS_v4": {
     "flags": [],
@@ -3061,7 +3233,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Manic-5_Skirmish_v1": {
     "flags": [
@@ -3116,7 +3292,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "CAF_Manic-5_Skirmish_v2": {
     "flags": [
@@ -3151,7 +3331,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "CAF_Manic-5_TC_v1": {
     "flags": [],
@@ -3220,7 +3404,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Mestia_RAAS_v1": {
     "flags": [],
@@ -3284,7 +3472,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 40,
+      "max": 100
+    }
   },
   "CAF_Mutaha_AAS_v1": {
     "flags": [],
@@ -3301,7 +3493,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Mutaha_RAAS_v1": {
     "flags": [],
@@ -3370,7 +3566,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Nanisivik_AAS_v1": {
     "flags": [],
@@ -3387,7 +3587,11 @@
       "tickets": 350,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Nanisivik_Invasion_v1": {
     "flags": [
@@ -3472,7 +3676,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Nanisivik_RAAS_v1": {
     "flags": [],
@@ -3556,7 +3764,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Narva_RAAS_v1": {
     "flags": [],
@@ -3630,7 +3842,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "CAF_Tallil_Outskirts_RAAS_v1": {
     "flags": [],
@@ -3719,7 +3935,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Yehorivka_Invasion_v1": {
     "flags": [
@@ -3804,7 +4024,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Yehorivka_RAAS_v1": {
     "flags": [],
@@ -3893,7 +4117,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "CAF_Yehorivka_TC_v1": {
     "flags": [],
@@ -3962,7 +4190,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Chora_AAS_v1": {
     "flags": [
@@ -4033,7 +4265,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Chora_AAS_v2": {
     "flags": [
@@ -4103,7 +4339,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Chora_Insurgency_v1": {
     "flags": [],
@@ -4167,7 +4407,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Chora_Invasion_v1": {
     "flags": [
@@ -4248,7 +4492,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Chora_Invasion_v2": {
     "flags": [],
@@ -4332,7 +4580,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Chora_RAAS_v1": {
     "flags": [],
@@ -4411,7 +4663,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Chora_RAAS_v2": {
     "flags": [],
@@ -4470,7 +4726,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Chora_Skirmish_v1": {
     "flags": [
@@ -4504,7 +4764,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Chora_TC_v1": {
     "flags": [],
@@ -4583,7 +4847,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_AAS_v1": {
     "flags": [
@@ -4678,7 +4946,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_AAS_v2": {
     "flags": [],
@@ -4747,7 +5019,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_Invasion_v1": {
     "flags": [],
@@ -4826,7 +5102,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Fools_Road_RAAS_v1": {
     "flags": [],
@@ -4915,7 +5195,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_RAAS_v2": {
     "flags": [],
@@ -4994,7 +5278,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_RAAS_v3": {
     "flags": [],
@@ -5078,7 +5366,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Fools_Road_Destruction_v1": {
     "flags": [],
@@ -5162,7 +5454,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Fools_Road_Skirmish_v1": {
     "flags": [
@@ -5207,7 +5503,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Fools_Road_Skirmish_v2": {
     "flags": [
@@ -5250,7 +5550,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Fools_Road_TC_v1": {
     "flags": [],
@@ -5329,7 +5633,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Gorodok_AAS_v1": {
     "flags": [
@@ -5430,7 +5738,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Gorodok_AAS_v2": {
     "flags": [
@@ -5526,7 +5838,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_Destruction_v1": {
     "flags": [],
@@ -5610,7 +5926,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_Insurgency_v1": {
     "flags": [],
@@ -5699,7 +6019,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_Invasion_v1": {
     "flags": [
@@ -5794,7 +6118,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_Invasion_v2": {
     "flags": [
@@ -5905,7 +6233,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_RAAS_v1": {
     "flags": [],
@@ -5994,7 +6326,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_RAAS_v2": {
     "flags": [],
@@ -6078,7 +6414,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_RAAS_v3": {
     "flags": [],
@@ -6157,7 +6497,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_RAAS_v4": {
     "flags": [],
@@ -6241,7 +6585,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Gorodok_RAAS_v5": {
     "flags": [],
@@ -6330,7 +6678,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Gorodok_Skirmish_v1": {
     "flags": [
@@ -6365,7 +6717,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Gorodok_TC_v1": {
     "flags": [],
@@ -6444,7 +6800,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Jensens_Range_v1": {
     "flags": [],
@@ -6578,7 +6938,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_Insurgency_v1": {
     "flags": [],
@@ -6682,7 +7046,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_Insurgency_v2": {
     "flags": [],
@@ -6771,7 +7139,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_Invasion_v1": {
     "flags": [
@@ -6877,7 +7249,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_Invasion_v2": {
     "flags": [
@@ -6988,7 +7364,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_Invasion_v3": {
     "flags": [
@@ -7088,7 +7468,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_RAAS_v1": {
     "flags": [],
@@ -7157,7 +7541,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kamdesh_RAAS_v2": {
     "flags": [],
@@ -7241,7 +7629,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kamdesh_RAAS_v3": {
     "flags": [],
@@ -7320,7 +7712,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kamdesh_RAAS_v4": {
     "flags": [],
@@ -7399,7 +7795,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kamdesh_Skirmish_v1": {
     "flags": [
@@ -7432,7 +7832,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Kamdesh_TC_v1": {
     "flags": [],
@@ -7501,7 +7905,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kamdesh_TC_v2": {
     "flags": [],
@@ -7590,7 +7998,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kohat_AAS_v1": {
     "flags": [
@@ -7690,7 +8102,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kohat_AAS_v2": {
     "flags": [],
@@ -7707,7 +8123,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kohat_Insurgency_v1": {
     "flags": [],
@@ -7826,7 +8246,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kohat_Invasion_v1": {
     "flags": [
@@ -7931,7 +8355,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kohat_Invasion_v2": {
     "flags": [
@@ -8030,7 +8458,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kohat_RAAS_v1": {
     "flags": [],
@@ -8109,7 +8541,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kohat_RAAS_v2": {
     "flags": [],
@@ -8183,7 +8619,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kohat_RAAS_v3": {
     "flags": [],
@@ -8272,7 +8712,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kohat_RAAS_v4": {
     "flags": [],
@@ -8361,7 +8805,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kohat_Skirmish_v1": {
     "flags": [
@@ -8396,7 +8844,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Kohat_TC_v1": {
     "flags": [],
@@ -8470,7 +8922,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Kokan_AAS_v1": {
     "flags": [
@@ -8532,7 +8988,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Kokan_Insurgency_v1": {
     "flags": [],
@@ -8596,7 +9056,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kokan_Invasion_v1": {
     "flags": [
@@ -8666,7 +9130,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Kokan_RAAS_v1": {
     "flags": [],
@@ -8735,7 +9203,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Kokan_RAAS_v2": {
     "flags": [],
@@ -8809,7 +9281,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Kokan_Skirmish_v1": {
     "flags": [
@@ -8859,7 +9335,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Kokan_TC_v1": {
     "flags": [],
@@ -8928,7 +9408,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Lashkar_Valley_AAS_v1": {
     "flags": [],
@@ -8945,7 +9429,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Lashkar_Valley_AAS_v2": {
     "flags": [],
@@ -8962,7 +9450,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Lashkar_Valley_Insurgency_v1": {
     "flags": [],
@@ -8979,7 +9471,11 @@
       "tickets": 800,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Lashkar_Valley_Invasion_v1": {
     "flags": [],
@@ -8996,7 +9492,11 @@
       "tickets": 900,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Lashkar_Valley_RAAS_v1": {
     "flags": [],
@@ -9013,7 +9513,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Lashkar_Valley_Skirmish_v1": {
     "flags": [],
@@ -9030,7 +9534,11 @@
       "tickets": 200,
       "vehicles": []
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Lashkar_Valley_TC_v1": {
     "flags": [],
@@ -9047,7 +9555,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Lashkar_Valley_TC_v2": {
     "flags": [],
@@ -9064,7 +9576,11 @@
       "tickets": 300,
       "vehicles": []
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Logar_Valley_AAS_v1": {
     "flags": [
@@ -9147,7 +9663,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Logar_Valley_AAS_v2": {
     "flags": [
@@ -9208,7 +9728,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Logar_Valley_Insurgency_v1": {
     "flags": [],
@@ -9282,7 +9806,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Logar_Valley_RAAS_v1": {
     "flags": [],
@@ -9356,7 +9884,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Logar_Valley_Skirmish_v1": {
     "flags": [
@@ -9401,7 +9933,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Logar_Valley_TC_v1": {
     "flags": [],
@@ -9475,7 +10011,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Mestia_AAS_v1": {
     "flags": [
@@ -9562,7 +10102,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Mestia_Invasion_v1": {
     "flags": [
@@ -9657,7 +10201,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Mestia_Invasion_v2": {
     "flags": [
@@ -9752,7 +10300,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Mestia_RAAS_v1": {
     "flags": [],
@@ -9831,7 +10383,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Mestia_Skirmish_v1": {
     "flags": [
@@ -9880,7 +10436,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Mestia_TC_v1": {
     "flags": [],
@@ -9959,7 +10519,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Mutaha_AAS_v1": {
     "flags": [
@@ -10039,7 +10603,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Mutaha_Invasion_v1": {
     "flags": [
@@ -10139,7 +10707,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Mutaha_RAAS_v1": {
     "flags": [],
@@ -10218,7 +10790,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Mutaha_Skirmish_v1": {
     "flags": [
@@ -10253,7 +10829,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Mutaha_TC_v1": {
     "flags": [],
@@ -10302,7 +10882,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Mutaha_TC_v2": {
     "flags": [],
@@ -10381,7 +10965,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Narva_AAS_v1": {
     "flags": [
@@ -10462,7 +11050,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Narva_AAS_v2": {
     "flags": [
@@ -10538,7 +11130,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Narva_AAS_v3": {
     "flags": [
@@ -10623,7 +11219,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Narva_Destruction_v1": {
     "flags": [],
@@ -10697,7 +11297,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Narva_Invasion_v1": {
     "flags": [
@@ -10787,7 +11391,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Narva_Invasion_v2": {
     "flags": [
@@ -10877,7 +11485,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Narva_RAAS_v1": {
     "flags": [],
@@ -10961,7 +11573,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Narva_Skirmish_v1": {
     "flags": [
@@ -11006,7 +11622,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Narva_TC_v1": {
     "flags": [],
@@ -11085,7 +11705,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Narva_TC_v2": {
     "flags": [],
@@ -11169,7 +11793,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Skorpo_AAS_v1": {
     "flags": [
@@ -11244,7 +11872,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Skorpo_RAAS_v1": {
     "flags": [],
@@ -11338,7 +11970,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Skorpo_RAAS_v2": {
     "flags": [],
@@ -11437,7 +12073,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Skorpo_RAAS_v3": {
     "flags": [],
@@ -11531,7 +12171,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Skorpo_RAAS_v4": {
     "flags": [],
@@ -11625,7 +12269,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Skorpo_Invasion_v1": {
     "flags": [
@@ -11716,7 +12364,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Skorpo_Invasion_v2": {
     "flags": [
@@ -11776,7 +12428,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Skorpo_Skirmish_v1": {
     "flags": [
@@ -11811,7 +12467,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Skorpo_TC_v1": {
     "flags": [],
@@ -11875,7 +12535,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Skorpo_TC_v2": {
     "flags": [],
@@ -11939,7 +12603,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Skorpo_TC_v3": {
     "flags": [],
@@ -12018,7 +12686,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Sumari_AAS_v1": {
     "flags": [
@@ -12083,7 +12755,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Sumari_Invasion_v1": {
     "flags": [],
@@ -12142,7 +12818,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Sumari_Insurgency_v1": {
     "flags": [],
@@ -12201,7 +12881,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Sumari_RAAS_v1": {
     "flags": [],
@@ -12260,7 +12944,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Sumari_RAAS_v2": {
     "flags": [],
@@ -12319,7 +13007,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Sumari_Skirmish_v1": {
     "flags": [
@@ -12369,7 +13061,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Sumari_TC_v1": {
     "flags": [],
@@ -12428,7 +13124,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 36,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_AAS_v1": {
     "flags": [
@@ -12535,7 +13235,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_Invasion_v1": {
     "flags": [
@@ -12635,7 +13339,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_Invasion_v2": {
     "flags": [
@@ -12723,7 +13431,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_Invasion_v3": {
     "flags": [],
@@ -12817,7 +13529,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_RAAS_v1": {
     "flags": [],
@@ -12916,7 +13632,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_RAAS_v2": {
     "flags": [],
@@ -13005,7 +13725,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_RAAS_v3": {
     "flags": [],
@@ -13104,7 +13828,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_RAAS_v4": {
     "flags": [],
@@ -13198,7 +13926,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Tallil_Outskirts_Skirmish_v1": {
     "flags": [
@@ -13234,7 +13966,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Tallil_Outskirts_Skirmish_v2": {
     "flags": [
@@ -13269,7 +14005,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Tallil_Outskirts_Skirmish_v3": {
     "flags": [
@@ -13379,7 +14119,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Tallil_Outskirts_TC_v1": {
     "flags": [],
@@ -13478,7 +14222,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_AAS_v1": {
     "flags": [
@@ -13580,7 +14328,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_AAS_v2": {
     "flags": [
@@ -13687,7 +14439,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_Destruction_v1": {
     "flags": [],
@@ -13771,7 +14527,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_Invasion_v1": {
     "flags": [
@@ -13871,7 +14631,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_Invasion_v2": {
     "flags": [
@@ -13976,7 +14740,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_RAAS_v1": {
     "flags": [],
@@ -14065,7 +14833,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_RAAS_v2": {
     "flags": [],
@@ -14119,7 +14891,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Yehorivka_RAAS_v3": {
     "flags": [],
@@ -14208,7 +14984,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_RAAS_v4": {
     "flags": [],
@@ -14277,7 +15057,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Yehorivka_RAAS_v5": {
     "flags": [],
@@ -14356,7 +15140,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 45,
+      "max": 100
+    }
   },
   "Yehorivka_Skirmish_v1": {
     "flags": [
@@ -14401,7 +15189,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Yehorivka_Skirmish_v2": {
     "flags": [
@@ -14434,7 +15226,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Yehorivka_Skirmish_v3": {
     "flags": [
@@ -14488,7 +15284,11 @@
         }
       ]
     },
-    "commander": false
+    "commander": false,
+    "players": {
+      "min": 0,
+      "max": 40
+    }
   },
   "Yehorivka_TC_v1": {
     "flags": [],
@@ -14582,7 +15382,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Yehorivka_TC_v2": {
     "flags": [],
@@ -14661,7 +15465,11 @@
         }
       ]
     },
-    "commander": true
+    "commander": true,
+    "players": {
+      "min": 54,
+      "max": 100
+    }
   },
   "Al_Basrah_TA_v1": {
     "flags": [],
@@ -14695,6 +15503,10 @@
       "name": "MEA",
       "tickets": 800,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "CAF_Chora_RAAS_v1": {
@@ -14712,6 +15524,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 40,
+      "max": 100
     }
   },
   "CAF_Fallujah_Invasion_v1": {
@@ -14729,6 +15545,10 @@
       "name": "INS",
       "tickets": 900,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "CAF_Fallujah_RAAS_v1": {
@@ -14746,6 +15566,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "CAF_Fools_Road_RAAS_v1": {
@@ -14763,6 +15587,10 @@
       "name": "RUS",
       "tickets": 250,
       "vehicles": []
+    },
+    "players": {
+      "min": 40,
+      "max": 100
     }
   },
   "CAF_Lashkar_Valley_TC_v1": {
@@ -14780,6 +15608,10 @@
       "name": "INS",
       "tickets": 450,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "CAF_Logar_Valley_RAAS_v1": {
@@ -14797,6 +15629,10 @@
       "name": "MEA",
       "tickets": 250,
       "vehicles": []
+    },
+    "players": {
+      "min": 40,
+      "max": 100
     }
   },
   "CAF_Mutaha_RAAS_v2": {
@@ -14814,6 +15650,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "CAF_Skorpo_RAAS_v1": {
@@ -14831,6 +15671,10 @@
       "name": "RUS",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "CAF_Sumari_AAS_v1": {
@@ -14848,6 +15692,10 @@
       "name": "MEA",
       "tickets": 250,
       "vehicles": []
+    },
+    "players": {
+      "min": 36,
+      "max": 100
     }
   },
   "CAF_Tallil_Outskirts_RAAS_v2": {
@@ -14865,6 +15713,10 @@
       "name": "MEA",
       "tickets": 350,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Fallujah_AAS_v1": {
@@ -14882,6 +15734,10 @@
       "name": "INS",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_AAS_v2": {
@@ -14899,6 +15755,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_Insurgency_v1": {
@@ -14916,6 +15776,10 @@
       "name": "INS",
       "tickets": 600,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Fallujah_Invasion_v1": {
@@ -14933,6 +15797,10 @@
       "name": "INS",
       "tickets": 900,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Fallujah_Invasion_v2": {
@@ -14950,6 +15818,10 @@
       "name": "INS",
       "tickets": 250,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Fallujah_Invasion_v3": {
@@ -14967,6 +15839,10 @@
       "name": "INS",
       "tickets": 900,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Fallujah_RAAS_v1": {
@@ -14984,6 +15860,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_RAAS_v2": {
@@ -15001,6 +15881,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_RAAS_v3": {
@@ -15018,6 +15902,10 @@
       "name": "MEA",
       "tickets": 300,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_Skirmish_v1": {
@@ -15035,6 +15923,10 @@
       "name": "MEA",
       "tickets": 150,
       "vehicles": []
+    },
+    "players": {
+      "min": 0,
+      "max": 40
     }
   },
   "Fallujah_Skirmish_v2": {
@@ -15052,6 +15944,10 @@
       "name": "INS",
       "tickets": 150,
       "vehicles": []
+    },
+    "players": {
+      "min": 0,
+      "max": 40
     }
   },
   "Fallujah_TC_v1": {
@@ -15069,6 +15965,10 @@
       "name": "MEA",
       "tickets": 450,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Fallujah_TC_v2": {
@@ -15086,6 +15986,10 @@
       "name": "MEA",
       "tickets": 450,
       "vehicles": []
+    },
+    "players": {
+      "min": 45,
+      "max": 100
     }
   },
   "Narva_TA_v1": {
@@ -15120,6 +16024,10 @@
       "name": "MEA",
       "tickets": 350,
       "vehicles": []
+    },
+    "players": {
+      "min": 54,
+      "max": 100
     }
   },
   "Tallil_Outskirts_TA_v1": {
@@ -15171,6 +16079,10 @@
       "name": "MEA",
       "tickets": 250,
       "vehicles": []
+    },
+    "players": {
+      "min": 40,
+      "max": 100
     }
   }
 }
