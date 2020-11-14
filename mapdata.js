@@ -10737,11 +10737,15 @@ module.exports = {
         delay: '20:00'
       }, {
         name: 'FV510 UA IFV',
-        amount: 3,
+        amount: 2,
         delay: ''
       }, {
         name: 'FV432 APC',
-        amount: 2,
+        amount: 1,
+        delay: ''
+      }, {
+        name: 'FV432 RWS APC',
+        amount: 1,
         delay: ''
       }, {
         name: 'UH-60M Grouse',
