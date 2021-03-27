@@ -1,0 +1,122 @@
+[
+  {
+    "tag": "USA",
+    "faction": "United States Army",
+    "name": "US Brigade Combat Team"
+  },
+  {
+    "tag": "MEA",
+    "faction": "Middle Eastern Alliance",
+    "name": "MEA Combined Arms Battalion"
+  },
+  {
+    "tag": "INS",
+    "faction": "Insurgent Forces",
+    "name": "Local Insurgent Cell"
+  },
+  {
+    "tag": "GB",
+    "faction": "British Army",
+    "name": "3rd Division"
+  },
+  {
+    "tag": "MIL",
+    "faction": "Irregular Militia Forces",
+    "name": "Local Militia Group"
+  },
+  {
+    "tag": "GB",
+    "faction": "British Army",
+    "name": "1st Battalion, Grenadier Guards"
+  },
+  {
+    "tag": "MEA",
+    "faction": "Middle Eastern Alliance",
+    "name": "4th MEA Border Guards Group"
+  },
+  {
+    "tag": "MIL",
+    "faction": "Irregular Militia Forces",
+    "name": "People's Front"
+  },
+  {
+    "tag": "INS",
+    "faction": "Insurgent Forces",
+    "name": "Omar's Freedom Fighters"
+  },
+  {
+    "tag": "GB",
+    "faction": "British Army",
+    "name": "British Armed Forces"
+  },
+  {
+    "tag": "RUS",
+    "faction": "Russian Ground Forces",
+    "name": "Russian battalion tactical group"
+  },
+  {
+    "tag": "RUS",
+    "faction": "Russian Ground Forces",
+    "name": "205th Detached Mechanized Cossacks Brigade, 1398th Separate Recon Company"
+  },
+  {
+    "tag": "CAF",
+    "faction": "Canadian Army",
+    "name": "CAF Battlegroup"
+  },
+  {
+    "tag": "CAF",
+    "faction": "Canadian Army",
+    "name": "1 Canadian Mechanized Brigade Group"
+  },
+  {
+    "tag": "RUS",
+    "faction": "Russian Ground Forces",
+    "name": "49th Combined Arms Army"
+  },
+  {
+    "tag": "CAF",
+    "faction": "Canadian Army",
+    "name": "3rd Battallion, Princess Patricia's Canadian Light Infantry"
+  },
+  {
+    "tag": "CAF",
+    "faction": "Canadian Army",
+    "name": "Royal Newfoundland Regiment"
+  },
+  {
+    "tag": "USA",
+    "faction": "United States Army",
+    "name": "149th Maneuver Enhancement Brigade, Kentucky Army National Guard"
+  },
+  {
+    "tag": "USA",
+    "faction": "United States Army",
+    "name": "1st Cavalry Regiment, 1st Armored Division"
+  },
+  {
+    "tag": "MEA",
+    "faction": "Middle Eastern Alliance",
+    "name": "3rd King Qadesh Mechanized Infantry Brigade"
+  },
+  {
+    "tag": "USA",
+    "faction": "United States Army",
+    "name": "504th Parachute Infantry Regiment, 82nd Airborne Division"
+  },
+  {
+    "tag": "MEA",
+    "faction": "Middle Eastern Alliance",
+    "name": "91st Air Assault Battalion"
+  },
+  {
+    "tag": "USA",
+    "faction": "United States Army",
+    "name": "37th Armor Regiment, 1st Armored Division"
+  },
+  {
+    "tag": "RUS",
+    "faction": "Russian Ground Forces",
+    "name": "6th separate Czestochowa, Red Banner, Order of Kutuzov tank brigade "
+  }
+]

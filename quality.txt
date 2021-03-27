@@ -1,0 +1,17 @@
+[MAPDATA] Unknown weather  on Sumari_Skirmish_v1
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_GooseBay_AAS_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_GooseBay_AAS_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_GooseBay_Invasion_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_GooseBay_Invasion_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_GooseBay_Invasion_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_GooseBay_Invasion_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_GooseBay_RAAS_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_GooseBay_RAAS_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_GooseBay_Skirmish_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_GooseBay_Skirmish_v1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_Manic_TC_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_Manic_TC_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/CAF_Yehorivka_TC_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/CAF_Yehorivka_TC_v2.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/FoolsRoad_Invasion_1.jpg
+[IMAGE] Missing Image: ./assets/squad/layers/300x300/FoolsRoad_Invasion_1.jpg
