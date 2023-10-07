@@ -14,7 +14,9 @@ def main():
     with open("maplist.txt", "w") as f:
         for map in maplistdata:
             f.write(map + "\n")
-
+    #prepare mapdata.json
+    mapdata = createMapDataJSON(layers)
+    print(mapdata)
 
 
 def createMapList(layers:json)-> [str]:        # Create maplist.json data
@@ -25,6 +27,8 @@ def createMapList(layers:json)-> [str]:        # Create maplist.json data
     return result
 
 def createMapDataJSON(layers:json)-> json:        # Create mapdata.json data
+    #do we need this or are we using the layers.json?
+    
     result: json = {}
 
     for map in layers["Maps"]:
@@ -49,12 +53,12 @@ def createMapDataJSON(layers:json)-> json:        # Create mapdata.json data
             #plugin?
             "size":  str(map["mapSize"]).split(" ")[0],
             "sizeUnit": str(map["mapSize"]).split(" ")[1],
-            "weather": map["lighting"],
+            "weather": map["lighting"] if "lighting" in map else "",
             #commander can be different for each team // removed
             "teams": teams,
-            "vehicles": map["vehicles"],
             "flags": map["Flag"] if "Flag" in map else [],
         }
+    return result
 
 if __name__ == "__main__":
     main()
